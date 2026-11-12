@@ -18,34 +18,49 @@ Soldaki bayrak, dil menüsündeki kutunun araçla üretilmiş önizlemesidir; oy
 
 Hazırlayan: **Vechiron**
 
-### ⬇ [Kurulum programını indir (TimespinnerTR-Kurulum.exe)](https://github.com/vechiron/TimeSpinner-TR/releases/latest/download/TimespinnerTR-Kurulum.exe)
+## ⬇ İndir
+
+### [Kurulum programını indir (TimespinnerTR-Kurulum.exe)](https://github.com/vechiron/TimeSpinner-TR/releases/latest/download/TimespinnerTR-Kurulum.exe)
+
+Başka bir şey kurmanız ya da komut yazmanız gerekmez: indirin, çalıştırın, kurulum kendisi yapar.
+
+## Nasıl kurulur?
+
+1. Yukarıdaki düğmeden **TimespinnerTR-Kurulum.exe** dosyasını indirin.
+2. Çift tıklayıp çalıştırın. Windows "Bilinmeyen yayımcı" uyarısı verirse **Ek bilgi**ye, sonra **Yine de çalıştır**a tıklayın.
+3. Açılan pencerede **1** yazıp Enter'a basın. Program oyunu kendisi bulur ve Türkçeyi kurar.
+4. Oyunu açın, dil menüsünden Türk bayraklı seçeneği seçin.
+
+Gereken tek şey: bilgisayarınızda Steam'den kurulu Timespinner (Windows).
+
+## Sık sorulanlar
+
+**Yamayı nasıl kaldırırım?** Kurulum programını yeniden çalıştırın, **1** yazıp Enter'a basın. Program oyunun özgün dosyalarını geri koyar.
+
+**Oyun güncellenince Türkçe gitti.** Steam'in güncellemesi ya da "Oyun dosyalarının bütünlüğünü doğrula" işlemi yamalı dosyaları özgünleriyle değiştirebilir. Kurulum programını yeniden çalıştırın. Güncelleme oyunun dosyalarını değiştirdiyse program onları tanımaz ve hiçbir dosyaya dokunmaz; o zaman yamanın yeni sürümü gerekir (test edilen sürüm: Steam yapı numarası 24077286).
+
+**Program oyunun klasörünü bulamadı, ne yapacağım?** Program klasörün yolunu sorar. Steam'de oyuna sağ tıklayın, **Yönet > Yerel dosyalara göz at** deyin; açılan pencerenin adres çubuğundaki yolu programa yapıştırın.
+
+**Windows ya da antivirüs uyarı veriyor, güvenli mi?** Program dijital olarak imzalı olmadığı için Windows "Bilinmeyen yayımcı" der, bazı antivirüsler de "şüpheli" diyebilir. Bu bir yanlış alarmdır. Nedeni ve indirdiğiniz dosyanın buradaki sürüm olduğunu nasıl doğrulayacağınız sayfanın altında, **Geliştiriciler ve meraklılar için** bölümünde.
+
+**Dosya neden 94,7 MB?** Program kendi içinde Node.js taşıyor. Oyunun hiçbir dosyası içinde yok.
 
 Tüm sürümler: [Releases](https://github.com/vechiron/TimeSpinner-TR/releases)
 
-## Gereksinimler
+---
 
-- Timespinner, Windows, Steam (test edilen sürüm: Steam yapı numarası 24077286).
-- Windows'un kendi C# derleyicisi (`csc.exe`, .NET Framework 4); Windows'ta hazır gelir.
+## Geliştiriciler ve meraklılar için
 
-Kurulum programı oyunun dosyalarını tanımazsa (başka bir oyun sürümü ya da başka bir yamayla değiştirilmiş dosyalar) hiçbir dosyaya dokunmaz.
+Buradan sonrası kurulum için gerekli değil. Programın ne yaptığını, nasıl doğrulanacağını ve kendiniz nasıl derleyeceğinizi merak edenler içindir.
 
-## Kurulum (3 adım)
-
-1. **[TimespinnerTR-Kurulum.exe](https://github.com/vechiron/TimeSpinner-TR/releases/latest/download/TimespinnerTR-Kurulum.exe)** dosyasını indirin.
-2. Çalıştırın. Windows "Bilinmeyen yayımcı" (SmartScreen) uyarısı verirse **Ek bilgi > Yine de çalıştır** deyin; program dijital olarak imzalı olmadığı için bu uyarı normaldir.
-3. Açılan pencerede **1** yazıp Enter'a basın. Oyun klasörü Steam'in kayıtlarından otomatik bulunur; bulunamazsa program klasörün yolunu sorar (Steam'de oyuna sağ tıklayın > **Yönet > Yerel dosyalara göz at**, açılan pencerenin adres çubuğundaki yol). Oyunu açın ve dil menüsünden Türk bayraklı seçeneği seçin.
-
-**Kaldırmak için** programı yeniden çalıştırın: yama kuruluysa **1** yamayı kaldırır ve oyunun özgün dosyalarını geri koyar.
-
-**Oyun güncellenirse:** Steam'in güncellemesi ya da "Oyun dosyalarının bütünlüğünü doğrula" işlemi yamalı dosyaları özgünleriyle değiştirebilir. O zaman programı yeniden çalıştırın. Güncelleme oyunun dosyalarını değiştirdiyse program onları tanımaz ve dokunmaz; yamanın yeni sürümü gerekir.
-
-## Antivirüs uyarısı
+<details>
+<summary><b>Antivirüs uyarısı ve dosya doğrulama</b></summary>
 
 Bazı antivirüsler kurulum programını "şüpheli" olarak işaretleyebilir. Bu bir yanlış alarmdır, ama programın yapısı antivirüslerin gözünde zararlı yazılımlara benzer:
 
 - İçinde başka bir program taşır: `TimespinnerTR-Kurulum.exe`, resmî Node.js v24.22.1 programının bir kopyasıdır; içine kurulum betiği eklenmiş, simgesi ve dosya bilgisi değiştirilmiştir. Dosyanın 94,7 MB olmasının nedeni budur.
 - Oyunun `Timespinner.exe` dosyasının yamalı bir kopyasını üretip yerine koyar (özgün dosyanın yedeğini alır).
-- Yamalı kopyayı üretmek için Windows'un C# derleyicisini (`csc.exe`) ve Mono.Cecil kitaplığını (MIT) geçici bir klasörde çalıştırır.
+- Yamalı kopyayı üretmek için Windows'un C# derleyicisini (`csc.exe`, .NET Framework 4; Windows'ta hazır gelir) ve Mono.Cecil kitaplığını (MIT) geçici bir klasörde çalıştırır.
 - Dijital olarak imzalı değildir.
 
 Kurulum programının bütün kaynak kodu bu depodadır (aşağıda: **Depo düzeni**).
@@ -60,7 +75,10 @@ Kurulum programının bütün kaynak kodu bu depodadır (aşağıda: **Depo düz
 
 Bu sürüm VirusTotal'a yüklenmedi; isterseniz dosyayı kendiniz yükleyip karmasını bu tabloyla karşılaştırabilirsiniz.
 
-## Nasıl çalışır?
+</details>
+
+<details>
+<summary><b>Program tam olarak ne yapar?</b></summary>
 
 - Program oyunun hiçbir dosyasını içinde taşımaz. Yamalı dosyaları o an sizin bilgisayarınızdaki özgün dosyalardan üretir.
 - Önce özgün dosyaların beklenen sürüm olduğunu karmasıyla denetler. Ürettiği her dosyanın da yamanın beklenen sonucuyla birebir aynı olduğunu denetler. Biri tutmazsa hiçbir şey yazmaz.
@@ -82,7 +100,10 @@ Bu sürüm VirusTotal'a yüklenmedi; isterseniz dosyayı kendiniz yükleyip karm
 
 Komut satırından oyun klasörü ve veri klasörü verilebilir: `TimespinnerTR-Kurulum.exe --oyun "E:\Oyunlar\Timespinner" --veri "E:\TimespinnerTR"`.
 
-## Depo düzeni
+</details>
+
+<details>
+<summary><b>Depo düzeni</b></summary>
 
 | dosya | ne |
 |---|---|
@@ -102,7 +123,10 @@ Komut satırından oyun klasörü ve veri klasörü verilebilir: `TimespinnerTR-
 
 Oyunun kendi dosyaları bu depoda yoktur: programı derlemek ve çalıştırmak için oyunun sizdeki kopyası gerekir.
 
-## Derleme
+</details>
+
+<details>
+<summary><b>Kurulum programını kendiniz derlemek</b> (oyuncular için gerekmez)</summary>
 
 Kurulum programını kendiniz derleyebilirsiniz. Gerekenler: Windows, oyunun sizdeki kopyası, internet bağlantısı (Mono.Cecil, esbuild, postject, resedit-cli ve iki lisans metni indirilir) ve Node.js v24.22.1 (`npm` ile birlikte gelir).
 
@@ -119,6 +143,8 @@ Kurulum programını kendiniz derleyebilirsiniz. Gerekenler: Windows, oyunun siz
 Sınamada bazı senaryolar atlanır (çıktıda `ATLANDI` yazar). Biri `--zincirsiz` yüzündendir: geliştirme makinesinde, exe'nin yazacağı dosyaların beklenen karmaları ayrıca çeviri ve resim araçlarının ürettiği dosyalarla karşılaştırılır; bu depoda o üretim zinciri yoktur, bu yüzden karşılaştırma atlanır. Öteki atlananlar exe'nin içine gömülü varlığı (bir çeviri satırı, beklenen karmalar, yamanın kaynağı) bilerek bozan senaryolardır; gömülü varlık değiştirilemediği için sınanamazlar.
 
 **Aynı exe çıkar mı?** Bu sürümün exe'si, depo ayrı bir klasöre kopyalanıp yukarıdaki iki komutla yeniden derlendiğinde yukarıdaki tablodaki SHA-256 ile bayt bayt aynı çıktı. Bunun için iki koşul gerekir: aynı Node.js sürümü (v24.22.1; exe, derleyen Node'un bir kopyasını taşır) ve oyunun aynı sürümü (Steam yapı numarası 24077286; beklenen karmalar oyunun özgün dosyalarından çıkar). Karşılaştırma tek bir bilgisayarda ve tek bir Node.js sürümüyle yapıldı.
+
+</details>
 
 ## Lisans
 
