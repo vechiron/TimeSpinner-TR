@@ -1,0 +1,30 @@
+{
+  "aciklama": "AreaTitles_TR atlası 256x512, dizi sırası = kare numarası. kaynak=bizim: AreaTitles_TR-bizim.png · kaynak=oyun: kurulumda kullanıcının AreaTitles.xnb dosyasından (tools/baslik-ciz.mjs).",
+  "png_sha256": "52fd4d7a5b8bf1c1ebd416804fb7786de2d59e3d08e3b68f4f155e6b8cd2b9d7",
+  "kareler": [
+    {"x":0,"y":0,"w":86,"h":30,"kaynak":"bizim","ad":"Issız Göl"},
+    {"x":0,"y":30,"w":218,"h":30,"kaynak":"bizim","ad":"Varndagray Metropolü"},
+    {"x":0,"y":60,"w":110,"h":30,"kaynak":"bizim","ad":"Yeşilorman"},
+    {"x":0,"y":90,"w":120,"h":30,"kaynak":"bizim","ad":"Kale Surları"},
+    {"x":0,"y":120,"w":70,"h":30,"kaynak":"bizim","ad":"İç Kale"},
+    {"x":0,"y":150,"w":160,"h":30,"kaynak":"bizim","ad":"Kraliyet Kuleleri"},
+    {"x":0,"y":180,"w":110,"h":30,"kaynak":"bizim","ad":"Dingin Göl"},
+    {"x":0,"y":210,"w":188,"h":30,"kaynak":"bizim","ad":"Sürgün Mağaraları"},
+    {"x":0,"y":240,"w":198,"h":30,"kaynak":"bizim","ad":"Mühürlü Mağaralar"},
+    {"x":0,"y":270,"w":146,"h":30,"kaynak":"bizim","ad":"Askerî Hangar"},
+    {"x":0,"y":300,"w":248,"h":30,"kaynak":"bizim","ad":"Amadeus'un Laboratuvarı"},
+    {"x":0,"y":330,"w":190,"h":30,"kaynak":"bizim","ad":"İmparatorun Kulesi"},
+    {"x":0,"y":360,"w":162,"h":30,"kaynak":"bizim","ad":"Karanlık Orman"},
+    {"x":0,"y":390,"w":148,"h":30,"kaynak":"bizim","ad":"Kadim Piramit"},
+    {"x":0,"y":420,"w":150,"h":30,"kaynak":"bizim","ad":"Zaman Girdabı"},
+    {"x":0,"y":460,"w":32,"h":28,"kaynak":"oyun"},
+    {"x":0,"y":491,"w":40,"h":21,"kaynak":"oyun"},
+    {"x":40,"y":491,"w":16,"h":21,"kaynak":"oyun"},
+    {"x":56,"y":491,"w":68,"h":21,"kaynak":"oyun"},
+    {"x":183,"y":503,"w":36,"h":9,"kaynak":"oyun"},
+    {"x":220,"y":503,"w":36,"h":9,"kaynak":"oyun"},
+    {"x":32,"y":460,"w":16,"h":28,"kaynak":"oyun"},
+    {"x":146,"y":503,"w":36,"h":9,"kaynak":"oyun"},
+    {"x":74,"y":455,"w":182,"h":30,"kaynak":"bizim","ad":"Winderia Gezegeni"}
+  ]
+}

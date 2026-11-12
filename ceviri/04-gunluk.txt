@@ -1,0 +1,125 @@
+# 04-gunluk — günlük menüsü: Selen'in anıları 6-10, mektup 0-1 (parti 4/15)
+# Hitap: Selen ile Nuvius birbirine "sen"; Undar ve Thea Selen'e "sen"; Selen büyüklere çoğul "siz".
+# Anılar Selen'in ağzından, şimdiki zaman anlatı; kaynak geçmiş zamandaysa geçmiş zaman.
+
+# ---- anı 6: çocukluk
+inv_jou_Memory6 = Çocukluk
+inv_jou_Memory6_desc = Selen'in, Lunais'in çocukluğuna dair anısı.
+inv_jou_Memory6_0 = Annem, Lunais doğmadan önce hayatını kaybetti. Bütün klan benimle birlikte yas tuttu, ama uzun süre yas tutamadık.
+inv_jou_Memory6_1 = Lunais biz yolculuktayken doğdu. Parlak mavi saçları vardı; babasının kim olduğu konusunda aklımda hiç şüphe kalmadı. Büyükler onu bulup klana katmak isteyip istemediğimi sordu, ama ona güvenilemeyeceğini söyledim—o bir Lachiemli. Zaten onu yeniden görmeye hiç niyetim yoktu—baştan beri uzun soluklu bir ilişki olması düşünülmemişti.
+inv_jou_Memory6_2 = Lunais dik başlı. Keşif ve macera oyunlarında çocukları başına topluyor. Ona sabrı öğretmeye çalışıyorum, ama bu ağır ilerliyor. Yine de güçlü bir kız.
+inv_jou_Memory6_3 = Faron'la Jiana'nın oğlu gibi değil. Yorne sessiz bir çocuk, ama kaba da olabiliyor. Yine de onu suçlayamam. Faron ona pek ilgi göstermiyor—Yorne ne kadar uğraşırsa uğraşsın, Faron'un öbür tarihteki önceki oğlunun yerini tutamıyor gibi. Faron'un aklında ailesi zamanın kumlarında kaybolup gitti. Jiana ona bir oğul verdi, ama bütün iyi niyetine rağmen ona istediği türden bir aileyi veremedi. Annemin Jiana'yı neden baş başa uyardığını şimdi anlıyorum.
+inv_jou_Memory6_4 = “Lunais, beklesene!” diye sesleniyor Yorne; kampın çevresinde yarışıyorlar.
+inv_jou_Memory6_5 = Lunais duraksıyor, Yorne da yanından fırlayıp geçiyor. “Ha, enayi!”
+inv_jou_Memory6_6 = Lunais hırlayıp peşine düşüyor—başının çevresinde dal parçaları havada süzülüyor. Aurası güçlü. Benimkinden de güçlü.
+inv_jou_Memory6_7 = Onu bir Zaman Ulağı olarak yetiştirmemiz gerekecek. Belki ikisini birden yetiştirmemiz gerekir.
+inv_jou_Memory6_8 = Böyle devam edemeyiz, yoksa bütün klanımızı başka tarihlere kaptıracağız.
+
+# ---- anı 7: bir çözüm
+inv_jou_Memory7 = Bir Çözüm
+inv_jou_Memory7_desc = Selen'in Qaelanların sorunlarına bulunan çözüme dair anısı.
+inv_jou_Memory7_0 = “Böyle, birbiri ardına Zaman Ulağı göndererek devam edemeyiz,” diyorum. Büyükler çevremde oturuyor; artık ben de onların çemberindeyim.
+inv_jou_Memory7_1 = Klan Anası Undar başını sallıyor. “Lachiemliler son yıllarda devriyelerini artırdı. Haklısın Selen—bunu sonsuza dek sürdüremeyiz. Zaman Çıkrığını bulacaklar.”
+inv_jou_Memory7_2 = Eşlerinden biri, Thea, kollarını kavuşturuyor. “Pes edemeyiz.”
+inv_jou_Memory7_3 = “Yeni bir plana ihtiyacımız var,” diyorum. “Lunais varken şu an Zaman Çıkrığını kullanmayı göze alamam. Elimizde yalnızca birkaç Ulak kaldı ve onları yeterince hızlı yetiştiremiyoruz. Bize gereken şey... yeni *türde* bir Zaman Ulağı.”
+inv_jou_Memory7_4 = “Aklında ne var?” diye soruyor Undar.
+inv_jou_Memory7_5 = “Geleneğimiz hep şöyle olmuştur: Zaman Ulağı, tarihi fazla bozmamak için yalnızca klanı güvende tutmaya yetecek kadar geriye döner.”
+inv_jou_Memory7_6 = “Zamanın bir seferde küçük bir değişiklikten fazlasına dayanıp dayanamayacağını hiç bilmiyoruz,” diyor Thea.
+inv_jou_Memory7_7 = Başımı sallıyorum. “Ama bu riski almalıyız. Bir Zaman Ulağını *çok daha geriye* gitmesi için yetiştirmeyi öneriyorum. Geçmişe gitsin. Elinden gelirse Lachiemlilerin Zaman Çıkrığından haberdar olmasını baştan engellesin. Onların *hiçbir zaman* sorun olmamasını sağlayacak bir şey yapsın.”
+inv_jou_Memory7_8 = “Bu çok büyük bir değişiklik!” diyor Thea. “Tarihimizi tamamen değiştirir—hâlâ var olup olmayacağımızı bile bilmiyoruz!”
+inv_jou_Memory7_9 = “Ama yapılması gerek!” diyorum. “Önemli olan tek şey Zaman Çıkrığı.”
+inv_jou_Memory7_10 = “Peki bu yeni Zaman Ulağı kim olsun diyorsun?” diye soruyor Undar. Ama gözümdeki pırıltıdan cevabımı çoktan biliyor.
+
+# ---- anı 8: eski bir dost
+inv_jou_Memory8 = Eski Bir Dost
+inv_jou_Memory8_desc = Selen'in eski bir dostuyla karşılaşmasının anısı.
+inv_jou_Memory8_0 = Bir kez daha şehirdeyim. Bu yolculuğu yapmayalı uzun yıllar oldu, ama erzaka ihtiyacımız vardı; bir kısmı da Lunais'in kutlaması için. Eğitimi neredeyse tamamlandı; kutlama biter bitmez bir Zaman Ulağı olacak. Onunla çok gurur duyuyorum, ama ondan katlanmasını istediğimiz tehlikelerin ve acının da fazlasıyla farkındayım...
+inv_jou_Memory8_1 = Lachiemliler hakkında daha çok şey öğrenmeyi de umuyorum; belki hareketlerine dair bir ipucu yakalarım. Belki Lunais'in onları sonsuza dek durdurmak için kullanabileceği bir bilgi.
+inv_jou_Memory8_2 = Pazar yerinde bir sandık dolusu Lachiem Güneşini inceliyorum; Lunais'e bir tane almayı umuyorum. Önemini anlamayacak, ama belki bir gün...
+inv_jou_Memory8_3 = Yakınlarda büyük bir Lachiem devriyesi var—pazar, buraya son gelişimdeki kadar hareketli değil. Onlar geçerken dikkat çekmemek için umursamaz bir tavırla bir Güneşi evirip çeviriyorum.
+inv_jou_Memory8_4 = Başaramıyorum.
+inv_jou_Memory8_5 = “Selen?”
+inv_jou_Memory8_6 = Sesi tanıyorum. O miğferini çıkarırken dönüyorum. Artık sakalı var, saçı gibi mavi, ama kesinlikle o.
+inv_jou_Memory8_7 = “Nuvius,” diyorum.
+inv_jou_Memory8_8 = “*İmparator* Nuvius diyeceksin,” diye hırlıyor muhafızlarından biri.
+inv_jou_Memory8_9 = Gözlerim büyüyor.
+inv_jou_Memory8_10 = “Sorun yok, Carrack.” Bana gülümsüyor. “Seni bir daha göreceğimi hiç düşünmemiştim.” Bana sarılmak için yaklaşıyor; geri çekilme dürtüsünü bastırmaya çalışıyorum. O kadar çok asker var ki...
+inv_jou_Memory8_11 = “İmparator mu?” diyebiliyorum yalnızca.
+inv_jou_Memory8_12 = Beni bıraktığında da yakınımda duruyor ve sesini alçaltıyor. “Evet. Seni son gördüğümde yalnızca bir prenstim ve benden sırf gücüm için hoşlanmanı istemedim... Ama gel! Hasret giderelim. Bir yerde yemek yiyelim mi? Şirin, küçük bir yer biliyorum...” Muhafız birliğinin arasından bir yol gösteriyor; muhafızlar emirle iki yana açılıp hazır ola geçiyor.
+inv_jou_Memory8_13 = Lachiem İmparatoru... Ama başka ne seçeneğim var? Başımı sallıyorum.
+
+# ---- anı 9: alacakaranlıkta yemek
+inv_jou_Memory9 = Alacakaranlıkta Yemek
+inv_jou_Memory9_desc = Selen'in alacakaranlıktaki bir akşam yemeği anısı.
+inv_jou_Memory9_0 = Hakkını vermek gerek, yemek için bulduğu yer gerçekten güzel. Okyanus manzarası, etrafımızı saran alacakaranlık, ağaçları hışırdatan ılık bir esinti. Yine de son derece huzursuzum.
+inv_jou_Memory9_1 = “Seni yeniden göreceğimi hep ummuştum,” diyor Nuvius, bana bir kadeh şarap doldururken. “Neden hiç geri dönmedin?”
+inv_jou_Memory9_2 = “Benim... ilgilenmem gereken başka işlerim vardı,” diyorum.
+inv_jou_Memory9_3 = “Hadi ama, ne gibi?”
+inv_jou_Memory9_4 = “Klanımın liderlerinden biri oldum.”
+inv_jou_Memory9_5 = “Ah! Harika! Demek ikimiz de lideriz. O gece, yıllar önce, bilge bir müttefik bulmak istediğimi söylerken ciddiydim.”
+inv_jou_Memory9_6 = “Gerçekten mi, Nuvius? Halkın dünyamızdan çok şey aldı,” diyorum; vereceği cevapta hatırladığım o kendini geliştirme arzusunu görmeyi umuyorum.
+inv_jou_Memory9_7 = “Aldığımızın on katını geri verdik!” diye burun kıvırıyor.
+inv_jou_Memory9_8 = Yere bakıyorum.
+inv_jou_Memory9_9 = “Ama... belki de... doğru danışmana sahip olmadım,” diyerek toparlanıyor. “O geceyi, onca yıl önceki o geceyi hâlâ düşünüyorum. Kurabileceğimiz aileyi.”
+inv_jou_Memory9_10 = Tepkimi gizlemeye çalışıyorum, ama onun tepkisinden başaramadığımı anlıyorum.
+inv_jou_Memory9_11 = “Ne?” Şarabını içmeyi bırakıp bana bakıyor. “Bana söylemediğin bir şey var.”
+inv_jou_Memory9_12 = “Bir kızım oldu, Nuvius.” Kendi itirafım beni de şaşkına çeviriyor. Paniğe kapılıyorum. Buradan çıkmam lazım.
+inv_jou_Memory9_13 = Gözleri büyüyor. “Yoksa o...?”
+inv_jou_Memory9_14 = Gönülsüzce başımı sallıyorum.
+inv_jou_Memory9_15 = “Bir kız!” Gözlerinin içi parlıyor. “Bu mükemmel! Bu harika! Adı ne?”
+inv_jou_Memory9_16 = “Lunais.” Kusacak gibi oluyorum.
+inv_jou_Memory9_17 = “Lunais! Selen, çok sevindim. Onu bana getirmelisin!”
+inv_jou_Memory9_18 = Başımı iki yana sallayıp kekeliyorum: “Klanım dışarıya çok kapalıdır, Nuvius. Biz yabancıları aramıza—”
+inv_jou_Memory9_19 = “Klanını kim takar?” Kadehindeki şarabı bir dikişte bitirip bir tane daha dolduruyor. “Ben İmparatorum! Benimle geleceksiniz, sen ve Lunais. Kraliçem olabilirsin! Galaksiyi birlikte yönetebiliriz!”
+inv_jou_Memory9_20 = Bir an dilim tutuluyor. Ağzımdan ancak “Ne?” çıkabiliyor.
+inv_jou_Memory9_21 = “Selen, yıllardır bunu istiyorum. Seni seviyorum! Bu yüzden seni bunca zamandır yeniden görmek istedim. İstediğin her şeye sahip olabilirsin, yeter ki benimle gel! Sonsuza dek birlikte olabiliriz!”
+inv_jou_Memory9_22 = Afallıyorum. “Beni *seviyor* musun? Beni üç gün tanıdın, hem de neredeyse yirmi yıl önce!”
+inv_jou_Memory9_23 = “Ve seni hiç unutmadım. Seni hep sevdim. Seninle bir aile kurmanın hasretini çektim ve işte dileğim gerçek oldu!”
+inv_jou_Memory9_24 = “Şey, üzgünüm Nuvius. Bu karşılıklı değil. Sen—gelip geçici bir hevestin! Eğlenceliydin ve klanımıza önemli bir taze kan getirdin, ama seni hiçbir zaman *sevmedim*.”
+inv_jou_Memory9_25 = “Saçmalık!” diyor. “Bu dünyayı yönetiyorum, Selen, daha nicelerini de. O gücü bir düşün! Benim olursan birlikte neler yapabiliriz. Benimle birlikte hüküm sürebilirsin!”
+inv_jou_Memory9_26 = “Bu dünyadaki onca acının sorumlusu sensin!” Kendimi tutamıyorum. “Winderia boyunduruğunun altında inliyor; sen ortaya çıkmadan önce güçlü bir dünyaydı.”
+inv_jou_Memory9_27 = “Benimle olduğun sürece hiçbir önemi yok.”
+inv_jou_Memory9_28 = “Hayır. Seninle asla birlikte olmayacağım.”
+inv_jou_Memory9_29 = “Ama sen *benimsin*!” Sesi yükseliyor. Ayağa kalkıyorum; birdenbire çok korkuyorum. “Sen ve kızım! İkinize de sahip olacağım!”
+inv_jou_Memory9_30 = “Gidiyorum, Nuvius.”
+inv_jou_Memory9_31 = “Peki! Sana ihtiyacım yok. Ama kızımı *mutlaka* alacağım. Nerede olduğunu söyle, sonra gidebilirsin.”
+inv_jou_Memory9_32 = “Bizi rahat bırak!”
+inv_jou_Memory9_33 = Üzerime atılıyor, ama şarap onu çoktan sersemletmiş. Kaçıyorum.
+inv_jou_Memory9_34 = “Onu benden uzak tutamazsın!” diye bağırdığını duyuyorum. “Seni bulacağım, sürtük!”
+
+# ---- anı 10: son çember
+inv_jou_Memory10 = Son Çember
+inv_jou_Memory10_desc = Selen'in büyüklerle yaptığı son toplantının anısı.
+inv_jou_Memory10_0 = Büyükler çemberinde derin bir sessizlik var. Onlara Lunais'in babasının Lachiem imparatoru olduğunu az önce söyledim—başımıza gelen onca belanın sorumlusu olan adam.
+inv_jou_Memory10_1 = “Bu bir felaket. Bizi bulmak için iki kat daha çok çabalayacak,” diyor Klan Anası Undar.
+inv_jou_Memory10_2 = “Biliyorum,” diye cevap veriyorum, utanç ve korku içinde. “Hızlı davranmalıyız. Planımızı harekete geçirmeliyiz.”
+inv_jou_Memory10_3 = “Lunais'in doğum günü kutlaması—resmen bir Zaman Ulağı olacağı gece—bu gece!” diyor Thea. “Ama korkarım hazır değil.”
+inv_jou_Memory10_4 = “Beni de onunla gönderin,” diyorum.
+inv_jou_Memory10_5 = “Ne?”
+inv_jou_Memory10_6 = Klan Anası başını iki yana sallıyor. “Daha önce hiç iki kişi Zaman Çıkrığından birlikte geçmedi.”
+inv_jou_Memory10_7 = “Denemeliyiz. Ben gidersem hiç var olmamış olurum—böylece İmparatorun nefret edecek kimsesi kalmaz! Ama ben hiç var olmadıysam Lunais de hiç doğmamış olur, oysa ona *ihtiyacımız* var. Birlikte gidersek belki ikimiz de birlikte hayatta kalırız. Ve Nuvius'u, Lachiemlileri durdurabiliriz.”
+inv_jou_Memory10_8 = “Bu çok büyük bir risk,” diyor Thea.
+inv_jou_Memory10_9 = “Ama yapılması gerek,” diye karşılık veriyor Undar. “Artık pek seçeneğimiz kalmadı. Denemeliyiz.”
+inv_jou_Memory10_10 = Başımı sallıyorum. “Teşekkürler, Klan Anası.”
+inv_jou_Memory10_11 = “Ama Lunais kutlamasını yapsın. Bunun için çok çalıştı. Zaman Çıkrığına giden tören alayından sonra ona planlarımızı anlatabilirsin.”
+inv_jou_Memory10_12 = Yine başımı sallıyorum. “Pekâlâ.”
+
+# ---- mektup 0: Lachiem keşif gezisi (Jarol Kail)
+inv_jou_Letter0 = Lachiem Keşif Gezisi
+inv_jou_Letter0_desc = Lachiem'e yapılan bir keşif gezisinin sonuçlarını ayrıntılarıyla anlatan mektup.
+inv_jou_Letter0_0 = Jarol Kail, Büyü Bilimleri Bölüm Başkanı
+inv_jou_Letter0_1 = Plothar Eyaleti Üniversitesi, Vilete
+inv_jou_Letter0_3 = Geçidin ve ötesindeki dünyanın büyü bilimi açısından incelenmesini tamamladık. Bunun gökyüzündeki kardeş dünyamız Lachiem olduğunu doğruladık. Uygarlığın el sürmediği bu dünya yaşamla dolup taşıyor—kimi zaman tehlikeli ölçüde (bkz. Ek B, Megafauna). Doğal kaynaklar bakımından da zengin.
+inv_jou_Letter0_4 = Ne yazık ki Lachiem'in atmosferinde Plazma da hiç bulunmuyor. Ekibimiz geçidin ötesine geçer geçmez bunun etkileri hissedildi; orada kaldığımız süre uzadıkça belirtiler de şiddetlendi. Bu hastalığa Kasvet adını verdik—auralarımızı zayıflatıyor; yorgunluğa ve sinirliliğe, ağrıya ve halsizliğe yol açıyor. Korkarım uzun süre maruz kalmak bazı bünyeler için ölümle sonuçlanabilir.
+inv_jou_Letter0_5 = Bu nedenle, bu dünyanın zengin potansiyeline rağmen, halkımızın güvenliği için Lachiem'e açılan geçidin kullanılmamasını üzülerek tavsiye etmek zorundayım.
+inv_jou_Letter0_6 = Geçidin eter akışını bu taraftan incelemeyi sürdüreceğiz.
+
+# ---- mektup 1: Temel Fermanlar (Truant)
+inv_jou_Letter1 = Temel Fermanlar
+inv_jou_Letter1_desc = Truant Vol Terrilis'in bir niyet beyanı.
+inv_jou_Letter1_0 = Birleşik Vilete'nin İlk İmparatoru Truant Vol Terrilis'in Temel Fermanları
+inv_jou_Letter1_2 = Auranın kudreti doğuştan hakkımızdır, Plazmanın armağanıdır. Büyü yeteneğine sahip olanlar ırkımızın doğal zirvesidir.
+inv_jou_Letter1_4 = Araştırma, simya, keşif ve deney yoluyla kendimizi ve auralarımızı geliştirmeyi amaçlarız.
+inv_jou_Letter1_6 = Güçlü auraya sahip olanlar halkın doğal önderleridir. Güçlü auraya sahip olanlar, hakları olduğu üzere büyücü seçkinlerce yetiştirilecektir.
+inv_jou_Letter1_8 = Bu yeni düzene karşı gelenler Lachiem'e sürülmeye mahkûm edilecek ve ömürlerini kutsal Plazmadan yoksun geçireceklerdir.
+inv_jou_Letter1_10 = Büyüyle dünyamız bütünlüğe kavuşur. Biz tüm Vilete'nin halkıyız: tek dünya, tek amaç, tek Önder.

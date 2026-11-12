@@ -1,0 +1,153 @@
+# 14-diyalog — Yüzbaşı Haristel'in görev zinciri (q_def, q_har_0 … q_har_4) (parti 14/15)
+# Hitap (Soru 6, A): Haristel → Lunais "sen"; Lunais → Haristel "sen" (Lunais onun astı değil, emir zinciri dışında).
+# "siz" yalnız çoğul: Haristel'in birliği (q_har_0_lun_01, q_har_0_lun_25, q_har_2_lun_01, q_har_2_lun_13) ve Cantoran'ın "ikiniz".
+
+# ---- sahne q_def: görevler arası tek satırlar
+q_def_har_00 = Gözünü dört aç—buralardaki yaban hayatı çok tehlikeli.
+q_def_har_01 = Şu kıçı kırık iblislerden kurtulduğumuza iyi oldu.
+q_def_har_02 = Demek burada mahsur kaldık. ...Gidip silahlarımı bilesem iyi olur.
+q_def_har_03 = Lachiemliler barış istiyormuş, umurumda değil—o genelge *bütün* askerlerine ulaşana kadar tetikte kalmalıyız.
+q_def_har_04 = Sanırım yeniden inşa etme vakti. Daha yapılacak çok iş var.
+
+# ---- sahne q_har_0: bitkiyarasalar
+q_har_0_har_00 = Hey. Diğerlerini bulmamıza yardım ettiğin için sağ ol.
+q_har_0_lun_01 = Demek burada mahsur kaldınız, ha?
+q_har_0_har_02 = Şimdilik. Lachiem geçidin denetimini ele geçirdi, yani yakında takviye gelecek gibi değil.
+q_har_0_har_03 = Şimdilik. Anladığım kadarıyla geçit artık yok edildi, yani yakında takviye gelecek gibi değil.
+q_har_0_har_04 = Fark etmez; elimizde ne varsa onunla Lachiemlilere karşı ne yapabiliyorsak yapacağız.
+q_har_0_har_05 = Fark etmez; elimizde ne varsa onunla burada hayatta kalmak için ne yapabiliyorsak yapacağız.
+q_har_0_lun_06 = Bu tavrını sevdim.
+q_har_0_har_07 = Ama birliğimden bu kadar az kişi kalmışken—bu lanet dünyada hayatta kalmakta bile zorlanacağız.
+q_har_0_har_08 = Öte yandan sen bir savaşçıya benziyorsun. Üstelik büyü yeteneğin de var. Askerlerim toparlanırken bize yardım eder misin?
+q_har_0_lun_09 = Ne yapmamı istiyorsun?
+q_har_0_har_10 = Buradaki vahşi hayvanlardan kendimizi bile koruyamazken Lachiemlilere karşı hiçbir ilerleme kaydedemeyiz. Kampın güvende kalması için bu hayvanların sayısı azaltılmalı.
+q_har_0_har_11 = Kampa sokulmasınlar diye çevredeki ormanda 15 bitkiyarasa öldürmeni istiyorum.
+q_har_0_lun_12 = Kulağa kolay geliyor.
+q_har_0_har_13 = Bol şans.
+q_har_0_har_14 = Dışarıdaki tiz çığlıklarını hâlâ duyabiliyorum. Bitkiyarasaların sayısı azaltılmazsa mevzimizi koruyamayabilirim.
+q_har_0_lun_15 = Tamam—hallediyorum.
+q_har_0_har_16 = Burada zaman kaybetme lüksümüz yok.
+q_har_0_har_17 = Orman artık sessiz.
+q_har_0_lun_18 = İstediğin gibi bitkiyarasaların sayısını azalttım.
+q_har_0_har_19 = Teşekkürler. Sen iyi bir asker olurdun.
+q_har_0_lun_20 = Eh, benim de uyuyacak güvenli bir yere ihtiyacım var.
+q_har_0_lun_21 = Demek... Vilete'den geliyorsun?
+q_har_0_har_22 = Evet. Orada doğup büyüdüm; büyü yeteneklerim keşfedilir keşfedilmez subay olmak üzere eğitildim.
+q_har_0_lun_23 = Senin de mi büyü gücün var?
+q_har_0_har_24 = Elbette. Vilete, büyü gücüne dayalı bir liyakat düzenidir; dünyalara yardım etme yeteneğimizi yücelten bir yer.
+q_har_0_lun_25 = Ve Lachiem'le savaş hâlindesiniz.
+q_har_0_har_26 = Lachiemliler Vilete'nin dışlanmışları ve suçlularıdır; hapis ya da idam yerine merhamet gösterilip buraya gönderildiler. Ki bu açıkça bir hataydı.
+q_har_0_har_27 = Kendi toplumlarını kurmaya bırakılınca Vilete'ye savaş açtılar. İşte bu yüzden buradayız.
+q_har_0_lun_28 = Neliste, Vilete İmparatorunun da zalim olduğunu söylemişti...
+q_har_0_har_29 = Büyük bir toplum kurdu. Rakiplerine merhamet gösterdi. Şimdiyse Lachiemliler bizi yenmek için iblislerle kol kola girdi!
+q_har_0_har_30 = Şimdiyse bizi yenmek için iblislerle kol kola girdiler!
+q_har_0_lun_31 = Lachiemlilerin de zalim olduğunu biliyorum. Zaten bu yüzden buradayım.
+q_har_0_lun_32 = Lachiemlilerin hâlâ zalimce davranabildiğini biliyorum—zaten bu yüzden buradayım.
+q_har_0_har_33 = O hâlde aramızda kalabilirsin, Lunais.
+q_har_0_lun_34 = Ama... yaptıklarından pişmanlar...
+q_har_0_har_35 = Pişmanlık, sebep oldukları ölümleri affettirmez.
+
+# ---- sahne q_har_1: sirenler
+q_har_1_har_00 = Lunais! Konuşabilir miyiz?
+q_har_1_lun_01 = Ne lazım?
+q_har_1_har_02 = İblislerin liderlerini çoktan yendiğini biliyorum...
+q_har_1_har_03 = Lachiem kraliçesini de teslim olmaya zorladın—
+q_har_1_lun_04 = Şey—
+q_har_1_har_05 = Ama Lachiem kuvvetleri burada, Kasvetli Dünya'da birliklerimize hâlâ rahat vermiyor.
+q_har_1_har_06 = Lachiem kuvvetleri burada, Kasvetli Dünya'da birliklerimize rahat vermiyor; iblisler de onları gerçekten tehlikeli kılıyor.
+q_har_1_har_07 = Karşılık verip mevzimizi güçlendirmek için bir saldırı düzenlerdim, ama birliğimden bu kadar çok kişi ölmüş ya da firar etmişken...
+q_har_1_har_08 = Bu kamp hâlâ tehlikedeyken harekete geçemem.
+q_har_1_lun_09 = Biraz daha hayvan mı öldürmemi istiyorsun?
+q_har_1_har_10 = Sıradan hayvanlardan daha büyük bir tehdit. Ormanın altındaki mağaralarda sirenler yaşıyor. Bölgeye yeni geldiler—iblislerle müttefik olabilirler.
+q_har_1_har_11 = Benzer taktikler kullanıyorlar—erkeği de dişisi de şarkı ve güzellikleriyle gafil askerleri tuzağa çekiyor; deneyimli askerler için bile tehlikeliler.
+q_har_1_har_12 = Onların icabına elbette kendim de bakabilirim, ama kampı başıboş bırakamam.
+q_har_1_lun_13 = Hoş bir meydan okumaya benziyor. Bakalım ne yapabilirim.
+q_har_1_har_14 = 10 tanesini öldürünce geri dön.
+q_har_1_har_15 = İş tamam mı?
+q_har_1_lun_16 = Henüz değil.
+q_har_1_har_17 = Boşa geçen her an bu kamp için tehlike demek. Mağaralardaki sirenler öldürülmeli.
+q_har_1_har_18 = Ee?
+q_har_1_lun_19 = Sirenlerin bir kısmını öldürmeyi başardım. Güzellikleri konusunda şaka yapmıyormuşsun...
+q_har_1_har_20 = Mükemmel. Bu iş bittiğine göre askerlerimin güvenliği konusunda daha rahat nefes alabilirim. Şimdi bir saldırı planı hazırlamalı...
+q_har_1_lun_21 = Bu kadar az adamla mı?
+q_har_1_har_22 = Bir de görünüşe göre çok becerikli bir kadınla, Lunais.
+
+# ---- sahne q_har_2: şövalyeler ve okçular
+q_har_2_har_00 = Lunais! Lachiemlilere bir darbe indirme vakti. Vilete'den destek gelmese bile bu savaşı sürdürmeliyiz.
+q_har_2_lun_01 = Vilete'ye açılan geçit kapandı, Haristel—Vilete'den artık destek gelmeyecek ve burada yalnızca siz varsınız.
+q_har_2_har_02 = Bu, şu hainlere ve gaspçılara karşı adalet aramaktan vazgeçmemiz için bir sebep mi?
+q_har_2_lun_03 = Rameda, Lachiemlilerin Vilete'den özgürlüklerini istemek için bir sebepleri olduğunu düşünüyor gibi...
+q_har_2_lun_04 = Kraliçe Aelana'yı çoktan yendim—burada daha barışçıl bir krallık kurmayı kabul etti!
+q_har_2_lun_05 = Dünyalar birbirinden ayrıldı; barış zamanı gelmedi mi?
+q_har_2_har_06 = Yine de hâlâ peşimizdeler. İblislerin etkisi altındaki askerler hâlâ var. Bu mücadeleden henüz vazgeçmeyeceğim.
+q_har_2_har_07 = Lachiem askerlerinin bir kısmını yenmeni, saflarını seyreltmeni ve bizden öyle kolayca kurtulamayacaklarını onlara göstermeni istiyorum.
+q_har_2_har_08 = Kalkanlı şövalyelerini ve okçularını bul. Karşılık ver.
+q_har_2_lun_09 = Hâlâ şiddet peşindeki askerler *gerçekten* herkes için bir tehdit...
+q_har_2_lun_10 = Peki.
+q_har_2_har_11 = Lachiem askerleri kavga aradığı sürece aradıklarını bizde bulacaklar.
+q_har_2_har_12 = Döndün demek.
+q_har_2_lun_13 = Hem de başarıyla. Safları seyreldi; kampınıza saldırmadan önce iki kez düşünecekler.
+q_har_2_har_14 = Bunca zamandır Vilete'den haber alamamamız beni endişelendiriyor. Geçide saldırı düzenlemiyorlar mı? Takviyeye ihtiyacımız var!
+q_har_2_lun_15 = Belki de deniyorlardır.
+q_har_2_har_16 = Burada yapayalnızız. Vilete geçidi geri alamadı, şimdi de mahsur kaldık. Bu dünyanın beni yenmesine izin vermeyeceğim.
+q_har_2_lun_17 = Atlatacağız.
+
+# ---- sahne q_har_3: Kraliyet Muhafızları
+q_har_3_har_00 = Lunais! Bir dakikan var mı?
+q_har_3_lun_01 = Yine öldürecek bir şeyler mi var?
+q_har_3_har_02 = Bu ses tonun hiç hoşuma gitmedi.
+q_har_3_lun_03 = Yine öldürecek bir şeyler mi var?
+q_har_3_har_04 = Neliste benimle konuşup bu savaşı artık sürdürmememiz gerektiğine beni ikna etmeye çalışıyor. İmparatorluktan hiç destek almıyoruz.
+q_har_3_lun_05 = Ama...?
+q_har_3_har_06 = Bırakıp gidemem! Lachiem inandığım her şeye karşı duruyor. Toplum düzenimizi yeriyorlar, geçidimizi almak için *iblisleri* kullanıyorlar.
+q_har_3_har_07 = Yurdumu yok etmek için komplo kuruyorlar!
+q_har_3_lun_08 = Vilete çok mu iyiydi? Lachiemlileri Kasveti bile bile buraya sürdüler.
+q_har_3_lun_09 = Hem duyduğuma göre memleketindeki toplum da pek güllük gülistanlık değilmiş.
+q_har_3_har_10 = Vilete bana iyi davrandı...
+q_har_3_lun_11 = Eminim Lachiem de liderlerine ve subaylarına iyi davranıyordur. Ama imparatorlukların kendilerinden aşağı gördüklerine neler yaptığını gördüm. Vilete'nin hiç yanlış yapmadığını gerçekten söyleyebilir misin?
+q_har_3_har_12 = Savaşa girilip girilmeyeceğine karar vermek bana düşmez; benim işim emir gelince savaşmak.
+q_har_3_lun_13 = Peki en son ne zaman emir aldın?
+q_har_3_har_14 = Fark etmez!! Başka hiçbir şey olmasa bile iblisler kaostan beslenen kötü yaratıklar. ONLAR yok edilmeli.
+q_har_3_lun_15 = Buna kesinlikle katılırım.
+q_har_3_har_16 = O hâlde en güçlü savaşçılarına saldırıp zayıflatalım. Kaledeki sözde “Kraliyet Muhafızları”ndan 8'ini ortadan kaldır. Dünyayı pisliklerinden arındıralım.
+q_har_3_lun_17 = Hallederim.
+q_har_3_har_18 = İblisler öldü mü?
+q_har_3_lun_19 = Liderleri öldü. Ama askerler hâlâ orada.
+q_har_3_lun_20 = Henüz değil.
+q_har_3_har_21 = O hâlde git. Kalede onlara bir darbe indir.
+q_har_3_har_22 = Ee?
+q_har_3_lun_23 = İş tamam. İblisler bozguna uğradı. Lachiem ordusu zayıflıyor.
+q_har_3_har_24 = Güzel.
+q_har_3_har_25 = Hiç bu kadar uzun süre emirsiz kalmamıştım. Bir birliği yönetebilirim, ama büyük kararları vermek hiç bana kalmamıştı.
+q_har_3_lun_26 = Ne demek istediğini anlıyorum. Ne yapacağımı söylemek için klanımın hep yanımda olacağını sanıyordum...
+q_har_3_lun_27 = Sonra onlar olmayınca harekete geçmem gerektiğini anladım. Ama belki de nedensiz harekete geçmek...
+q_har_3_har_28 = Bu iş olması gerektiği kadar basit değil, Lunais.
+
+# ---- sahne q_har_4: Cantoran
+q_har_4_har_00 = Pekâlâ. Demek savaş bitti.
+q_har_4_lun_01 = Sanırım öyle. Lachiemliler iblislerle bağlarını kopardı ve Vilete'ye açılan geçit yok oldu. Geriye kalan tek şey, sanırım, yeniden inşa etmek...
+q_har_4_har_02 = Pek sayılmaz.
+q_har_4_lun_03 = Öyle mi?
+q_har_4_har_04 = Belki fark etmişsindir, ama Lachiem askerlerinin hepsine “barış” haberi ulaşmamış gibi. Kraliçe Aelana'nın yeni yönelimine hâlâ ayak direyen unsurlar var.
+q_har_4_lun_05 = Nereden biliyorsun?
+q_har_4_har_06 = Onlardan biri eskiden en iyi askerimdi.
+q_har_4_lun_07 = !!
+q_har_4_har_08 = ...ta ki saf değiştirene kadar...
+q_har_4_har_09 = Aelana'nın yeni, barışçıl hedeflerine elimden geldiğince destek olacağım. Bu dünyada hayatımızı yeniden kuracağız. Ama önce—Cantoran ölmeli.
+q_har_4_har_10 = Barışa ulaşmamızın tek yolu bu.
+q_har_4_lun_11 = İşin içinde intikam olması da herhalde fena gelmiyordur.
+q_har_4_har_12 = Biraz. Yardım edecek misin?
+q_har_4_lun_13 = Elbette.
+q_har_4_har_14 = Ee?
+q_har_4_lun_15 = Cantoran şimdiye dek elimden kaçtı.
+q_har_4_har_16 = Hımm... Bugünlerde kalede pek hoş karşılanmıyordur. Adamlarıyla gölün kıyısında kamp kurmuş olabilir.
+q_har_4_lun_17 = Oraya bir bakarım. Sağ ol.
+q_har_4_lun_18 = İş tamam.
+q_har_4_har_19 = Bir zamanlar iyi bir askerdi. Ama öldürmeyi fazla seviyordu. *Davayı,* *görevi* görmüyordu—benim görevim sonunda... yanlış çıkmış olsa bile... ben asla sırf öldürmek için öldürmedim.
+q_har_4_lun_20 = Biliyorum.
+q_har_4_har_21 = Sağ ol, Lunais. Vilete'nin gözüme taktığı at gözlüklerinin ötesini görmeme yardım ettin. İntikamı aşmama yardım ettin.
+q_har_4_lun_22 = Evet... intikam...
+q_har_4_har_23 = Dışarıda kendine dikkat et—kanına susamış askerler hâlâ olacak. Ama bizim için çok iyi şeyler yaptın.
+q_har_4_har_24 = Teşekkürler.
+q_har_4_can_0 = Aelana'yı dövüşte alt edip bu savaşı durdurmaya ikna eden sen olmalısın.
+q_har_4_can_1 = İkiniz de aptalsınız! Vilete ne pahasına olursa olsun yok edilmeli. Beni durduramazsınız!

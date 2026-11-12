@@ -1,0 +1,153 @@
+# 03-gunluk — başarımlar ve Selen'in anıları 0-5 (parti 3/15)
+# Hitap: annem ve büyükler Selen'e "sen"; satıcı ve subay ilk karşılaşmada Selen'e "siz", sonraki anıda "sen";
+# Olada büyüklere "siz" (çoğul); Klan Anası Faron'a ve Jiana'ya "sen".
+
+# ---- başarımlar
+feat_name_hidden = ???
+feat_desc_hidden = Bu gizli bir başarımdır; kazanılana dek görünmez.
+feat_name_AllFeats = Zaman Çıkrığı
+feat_desc_AllFeats = Bütün Başarımlar kazanıldı.
+feat_name_FinishGame = Fatih
+feat_desc_FinishGame = Lachiem'in hükümdarını yen.
+feat_name_EndingC = Winderia'nın Kahramanı
+feat_desc_EndingC = Qaelanların İmparatorluk tarafından zulme uğramasını önle.
+feat_name_EndingD = Vilete'nin Kurtarıcısı
+feat_desc_EndingD = Kız Kardeşler Savaşını tek damla kan dökülmeden bitir.
+feat_name_FinishGameHard = Azim
+feat_desc_FinishGameHard = Oyunu Kâbus Modunda bitir.
+feat_name_GetOrb = Yakın Dövüş Küresi
+feat_desc_GetOrb = Yeni bir Yakın Dövüş Küresi bul.
+feat_name_GetAllOrbs = Küre Koleksiyoncusu
+feat_desc_GetAllOrbs = Bütün Yakın Dövüş Kürelerini bul.
+feat_name_MakeSpell = Büyü Kolyesi
+feat_desc_MakeSpell = Bir Simyacıya yeni bir Büyü yaptır.
+feat_name_MakeAllSpells = Büyü Dokumacısı
+feat_desc_MakeAllSpells = Bütün Küre Büyülerini edin.
+feat_name_MakePassive = Pasif Yüzük
+feat_desc_MakePassive = Bir Simyacıya yeni bir Pasif Yüzük yaptır.
+feat_name_MakeAllPassives = Pasif Agresif
+feat_desc_MakeAllPassives = Bütün Küre Pasiflerini edin.
+feat_name_GetFamiliar = Can Yoldaşı
+feat_desc_GetFamiliar = İlk Yoldaşını bul.
+feat_name_GetAllFamiliars = Rüyalar Kuşhanesi
+feat_desc_GetAllFamiliars = Bütün Yoldaşları topla.
+feat_name_GetAllMemories = Onun Hikâyesi
+feat_desc_GetAllMemories = Bütün Anıları topla.
+feat_name_GetAllLetters = Bilgin
+feat_desc_GetAllLetters = Bütün Mektupları topla.
+feat_name_GetAllFiles = Dolu Sabit Disk
+feat_desc_GetAllFiles = Bütün İndirilenleri topla.
+feat_name_GetAllJournals = Galaktik Tarihçi
+feat_desc_GetAllJournals = Bütün Anıları, Mektupları ve İndirilenleri topla.
+feat_name_FinishQuest = Yardımsever Ruh
+feat_desc_FinishQuest = Bir karakterin görevini tamamla.
+feat_name_FinishQuestLine = Adanmış Ruh
+feat_desc_FinishQuestLine = Bir karakterin bütün görevlerini tamamla.
+feat_name_FinishAllQuests = Kahraman Ruhu
+feat_desc_FinishAllQuests = Bütün karakter görevlerini tamamla.
+feat_name_MapCompletion = Kâşif
+feat_desc_MapCompletion = Haritanın %100'ünü keşfet.
+feat_name_Boss = {0}
+feat_desc_Boss_proper_noun = {0} ile savaşı kazan. (Yalnız Normal ya da Kâbus Modunda)
+feat_desc_Boss_common_noun = {0} ile savaşı kazan. (Yalnız Normal ya da Kâbus Modunda)
+feat_name_StealOrb = Sessiz Arkeolog
+feat_desc_StealOrb = Kaidesini kırmadan bir Küre edin.
+feat_name_PerfectBoss = Savaş Dâhisi
+feat_desc_PerfectBoss = Zamanı durdurmadan ve hasar almadan bir boss'u yen.
+
+# ---- anı 0: Zaman Ulağı
+inv_jou_Memory0 = Zaman Ulağı
+inv_jou_Memory0_desc = Selen'in Zaman Ulaklarını öğrendiği günün anısı.
+inv_jou_Memory0_0 = Kamp, her zamanki gibi geçici. Ama bir süredir buradayız; barınakları iyice sağlamlaştırdık.
+inv_jou_Memory0_1 = Görüntü bulanık. Çok uzun zaman önceydi.
+inv_jou_Memory0_2 = Annemle ve büyüklerle konuşuyorum.
+inv_jou_Memory0_3 = “Selen,” diyor, “görevimiz nedir?”
+inv_jou_Memory0_4 = Küçüğüm. Bir çocuğum. Bütün çocuklarımız gibi ben de tarihimizi öğreniyorum.
+inv_jou_Memory0_5 = “Qaelanlar, Zaman Çıkrığının kutsal koruyucularıdır,” diye ezberden okuyorum.
+inv_jou_Memory0_6 = “Onu neden korumalıyız?”
+inv_jou_Memory0_7 = “O kadimdir ve güçleri tehlikelidir,” diyorum, bu kez pek emin olamadan.
+inv_jou_Memory0_8 = Annem başını sallıyor. “Yanlış ellere düşerse bütün evren değişebilir. Peki, onu nasıl koruruz?”
+inv_jou_Memory0_9 = Bunu biliyorum. “Her kuşakta bir Zaman Ulağı yetiştiririz. Bir tehdit olursa Zaman Çıkrığını kullanıp geçmişe dönmek ve klanı uyarmak onun görevidir.”
+inv_jou_Memory0_10 = “Ama yalnızca son çare olarak,” diyor büyüklerden biri. Cevabımın eksik kaldığını anlayınca yüzümü buruşturuyorum. Aynı kişi ardından bir soru daha soruyor. “Bunun sonuçları nelerdir?”
+inv_jou_Memory0_11 = “Ulak, Zaman Çıkrığını kullandığında tarihten silinir; klana yeniden katılana dek hiç var olmamıştır. Böylece paradoks oluşmaz.”
+inv_jou_Memory0_12 = “Evet,” diyor annem. “Aferin.”
+inv_jou_Memory0_13 = Annem çemberin ortasından çıkıp yanına dönmemi işaret edince rahat bir nefes alıyorum. Gülümseyip beni kollarına alıyor ve kocaman sarılıyor. “Harika iş çıkardın, Selen,” diyor, beni sımsıkı tutarak.
+inv_jou_Memory0_14 = O çemberden uzaklaşırken başka bir büyüğün konuştuğuna kulak misafiri oluyorum. “Uzun zamandır buradayız. Kaynaklar azalıyor. Yakında göç etmeliyiz.”
+inv_jou_Memory0_15 = Başımı kaldırıp annemin yüzüne bakarak soruyorum: “Ben de Zaman Ulağı olmak için eğitim alabilir miyim?”
+inv_jou_Memory0_16 = “Belki,” diyor. “Ama umarım sana hiç ihtiyacımız olmaz, yavrum.”
+
+# ---- anı 1: Bir Haber
+inv_jou_Memory1 = Bir Haber
+inv_jou_Memory1_desc = Selen'in bir Zaman Ulağıyla ilk karşılaşmasının anısı.
+inv_jou_Memory1_0 = Gökyüzünde tuhaf şeyler görmüştük. Büyükler, bunların ne olduğunu öğrenmesi için gözcülerden Undar'ı şehre gönderdi.
+inv_jou_Memory1_1 = “Gemiler,” diyor. “Yıldızlardan gelmişler. Kendilerine Lachiem diyorlar; dünyamızın kaynaklarına karşılık takas etmek için değerli armağanlar getiriyorlar. Şehirliler dostça göründüklerini söylüyor, ama... askerleri de var. Hem de çok sayıda asker.”
+inv_jou_Memory1_2 = “Neden buradalar?” diye soruyor annem. Artık o da büyüklerden biri. Ben de hayal ettiğim gibi Zaman Ulağı olmak için eğitim alıyorum—gerçi kuşaklardır hiçbirine ihtiyaç duyulmadı.
+inv_jou_Memory1_3 = “Bilmiyorum, ama—bir meyhanede bazılarının konuşmasına kulak misafiri oldum. Kadimlerle çok ilgileniyor gibiydiler.”
+inv_jou_Memory1_4 = “Zaman Çıkrığından haberleri olabilir mi?”
+inv_jou_Memory1_5 = “Nasıl olabilir ki?” diye soruyorum.
+inv_jou_Memory1_6 = “Ne olursa olsun, yakında göç etmeliyiz,” diyor annem.
+inv_jou_Memory1_7 = Köyde bir kargaşa var. Bağıran sesler. Hiç görmediğim bir kadın koşarak büyükler çemberine giriyor. Ter içinde, soluk soluğa.
+inv_jou_Memory1_8 = “Affedin beni, büyüklerim,” diyor. “Adım Olada. Bu klanın Zaman Ulaklarındanım. Hemen gitmeliyiz—Lachiem, Zaman Çıkrığını arıyor. Benim zaman çizgimde bizi buldular—yerini söylemeye zorladılar.”
+inv_jou_Memory1_9 = Kalbim küt küt atıyor. Bir Zaman Ulağı! Büyükler başlarını sallıyor. “Yolda çemberi seninle kapatacağız.” Hazırlanmaya başlıyoruz.
+inv_jou_Memory1_10 = Birden eğitimim bir ritüelden fazlası gibi görünüyor. Birden gerçek oluyor.
+
+# ---- anı 2: Göçebeler
+inv_jou_Memory2 = Göçebeler
+inv_jou_Memory2_desc = Selen'in göçebe klanına dair anıları.
+inv_jou_Memory2_0 = Sık sık yer değiştiriyoruz; Lachiemliler hâlâ Kadimlerin kalıntılarını arıyor. Şehirleri sömürgeleştirdiler, gezegenimizin kaynaklarını gemileriyle göğe taşıyorlar, ama çoğunlukla barışçıllar. Yine de Zaman Çıkrığını bulmalarına izin veremeyiz; bu yüzden bizi bulmalarına da izin veremeyiz.
+inv_jou_Memory2_1 = Winderia'ya gelişlerinin üzerinden sekiz yıl geçti. Bizim için zor yıllar oldu. Büyüklerden birkaçı hayatını kaybetti; bu kadar sık göç etmenin yükü yaşlı kemiklerine fazla geldi. Başka Ulaklar da geldi. Şimdiye dek üç tane. Eskiden bir Ulak gelmeden kuşaklar geçerdi; şimdi her gün yenisinden korkuyoruz.
+inv_jou_Memory2_2 = Her seferinde çemberi tamamlıyoruz. Biz onların hikâyesini dinliyoruz, onlar bizimkini. Onları yeniden klana kabul ediyoruz. Yeni aileler buluyorlar. Ama anlattıkları gelecekler hep karanlık; gözlerindeki keder hiç geçmiyor.
+inv_jou_Memory2_3 = Artık daha çok Ulak da yetiştiriyoruz. Kaç tanesine ihtiyacımız olacağını bilmiyoruz—ve bir Zaman Ulağının birden fazla kez gitmesine asla izin veremeyiz. Bu hem zihin hem ruh için tehlikeli. Yolculuk, insanın kendi tarihini, geçmişteki varlığını feda etmesidir.
+inv_jou_Memory2_4 = Yakında klana taze kan gerekecek. Kadınlardan bazıları anne olmayı umarak şehre yolculuk planladı.
+inv_jou_Memory2_5 = Erzağa da ihtiyacımız var; takas yapmaya ben gönüllü oldum. Lachiemlileri merak ediyorum. Zaman Çıkrığını neden istediklerini—ya da ondan gerçekten haberleri olup olmadığını.
+inv_jou_Memory2_6 = Yol uzun değil. Ben yokken burada kalacak başka Zaman Ulakları da var—benden genç, klana daha az bağlı olanlar. İçimin küçük bir parçası hâlâ bir maceraya atılmayı özlüyor, daha büyük bir parçası bu çocukları o ağır yükten kurtarmak istiyor—ama en çok da görevimden korkuyorum ve bana hiç ihtiyaç duyulmamasını umuyorum.
+
+# ---- anı 3: Lachiem Güneşi
+inv_jou_Memory3 = Lachiem Güneşi
+inv_jou_Memory3_desc = Selen'in kalabalık bir pazar yerine dair anısı.
+inv_jou_Memory3_0 = Daha önce de tüccarlarla karşılaşmıştık, ama şehrin pazar yerindeki kadar çok insanı ve malı bir arada hiç görmemiştim. Herkes bin bir işin peşinde koşuşturuyor, satıcılar bağıra bağıra mallarını övüyor—Lachiem askerleri de mor zırhlarıyla sokaklarda devriye geziyor. Winderia'yı İmparatorluklarının bir parçası ilan ettiler; artık burada onlar hükmediyor.
+inv_jou_Memory3_1 = “Hanımefendi!” diye sesleniyor biri. “Yıldızlardan gelen meyvelere bir göz atmaz mısınız?” Buralı değil; malları da daha önce gördüğüm hiçbir şeye benzemiyor.
+inv_jou_Memory3_2 = “Bu ne?” diye soruyorum, dikenli, mor bir yumruyu elime alarak.
+inv_jou_Memory3_3 = “Lachiem Güneşi, ömrünüzde yiyeceğiniz en tatlı meyve!”
+inv_jou_Memory3_4 = “Lachiem'den mi geliyor?”
+inv_jou_Memory3_5 = Gülüyor. “Harabe'de artık hiçbir şey yetişmiyor. Ama kolonilerden birinden geliyor! Hatta benim memleketimden.”
+inv_jou_Memory3_6 = Arkamda bir öksürük duyuyorum, sonra—bir grup imparatorluk askeri tezgâhın çevresini sarmış, satıcıya bakıyor—gerçi başlarındaki yalnızca bana bakıyor. Kalbim hızla çarpmaya başlıyor.
+inv_jou_Memory3_7 = “Ah, kusura bakmayın komutanlarım,” diye kekeliyor satıcı. “Anavatan'a saygısızlık etmek istemedim.”
+inv_jou_Memory3_8 = “Lachiem'e bir daha o adla seslendiğini duymayalım,” diyor askerlerden biri.
+inv_jou_Memory3_9 = Satıcı başını sallıyor, ama başlarındaki onu görmezden gelmeyi sürdürüyor. Miğferini çıkarınca genç bir yüz ortaya çıkıyor—hem de yakışıklı. Saçları, bütün yerli Lachiemliler gibi parlak mavi.
+inv_jou_Memory3_10 = Lachiemlilerin çabuk öfkelenen, yerinde duramayan insanlar olduğu söylenir—ama o mavi saçlar öyle büyüleyici ki...
+inv_jou_Memory3_11 = Subay bana gülümsüyor; nabzım hızlanıyor, ama bu kez korkudan değil.
+inv_jou_Memory3_12 = “O meyveyi sorduğunuzu duydum,” diyor. “Kaliteden anlıyorsunuz.” Ona baktığımı fark etmiş; yüzüm kızarıyor. “Onu size almama izin verir misiniz? Herkes bir Lachiem Güneşinin tadına bakma lütfuna erişmeli.”
+
+# ---- anı 4: Mehtaplı Gece
+inv_jou_Memory4 = Mehtaplı Gece
+inv_jou_Memory4_desc = Selen'in mehtaplı bir geceye dair anısı.
+inv_jou_Memory4_0 = Keşfetmeyi ve takas yapmayı umarak şehirde birkaç gün kalıyorum. Sonunda zamanımın çoğunu Lachiemli subayla geçiriyorum.
+inv_jou_Memory4_1 = “Tarihimiz boyunca hep yerinde duramayan bir halk olduk,” diyor bana. Bana tarihleri, felsefeleri ve sanatları hakkında çok şey anlattı. “Bu bizi keşfetmeye, yıldızların daha da derinlerine gitmeye, bilinmeyeni aramaya itiyor. Evrende öyle çok güzellik, öyle çok görülmemiş harika var ki.”
+inv_jou_Memory4_2 = “Bende de eskiden öyle bir tutku vardı,” diyorum. “Kahraman olmak, halkımın hayranlıkla baktığı kişi olmak.”
+inv_jou_Memory4_3 = “Bence hâlâ var!” diyor. “Gözlerinde bir ateş var.” Yaklaşıp gözlerimin içine bakıyor.
+inv_jou_Memory4_4 = Biraz kızarıyorum, ama gözlerimi kaçırmıyorum.
+inv_jou_Memory4_5 = “Madem keşfetmeye bu kadar heveslisin... neden hâlâ bizim dünyamızdasın?” diye soruyorum.
+inv_jou_Memory4_6 = “Burada daha görecek çok şey var,” diyor usulca. “Başka kültürleri, başka bakış açılarını anlamak istiyorum. Onların fikirlerini İmparatorluğa taşımaya yardım etmek. Düzenimizin her zaman kusursuz olmadığının farkındayım. Kaynaklara ve güce çok önem veriyoruz, ama... inanıyorum ki tutkumuz aynı zamanda kendimizi geliştirmeye yönelik. Ya da en azından, öyle olmasını isterdim.”
+inv_jou_Memory4_7 = “Soylu bir amaç, ama—”
+inv_jou_Memory4_8 = Sözümü bitirmeme fırsat vermeden kesiyor. “Biliyorum. Daha yapılacak öyle çok şey var ki... Öğrenilecek bilgelikler. Bulunacak müttefikler...”
+inv_jou_Memory4_9 = Gözlerinin içine bakmayı sürdürüyorum. Tutku dolular, ama artık daha sakin bir tutku bu. O güzel mavi başı benimkine yaklaşıyor. “Evrende öyle güzellikler var ki. Keşfedilecek harikalar,” diye sürdürüyor.
+inv_jou_Memory4_10 = “Mesela...?” diye soruyorum.
+inv_jou_Memory4_11 = Dudaklarıyla cevap veriyor.
+
+# ---- anı 5: Faron
+inv_jou_Memory5 = Faron
+inv_jou_Memory5_desc = Selen'in Faron'la tanışmasının anısı.
+inv_jou_Memory5_0 = Gece geldi, koşarak, soluk soluğa. Yeni bir Ulağın geldiğini duyunca köy hemen uyandı.
+inv_jou_Memory5_1 = “Acele etme,” diyor annem; klan çevremizde toplanmış. Artık yaşlı; Klan Anası, büyükler çemberinin başı—her yıl biraz daha küçülen çemberin.
+inv_jou_Memory5_2 = “Adım Faron,” diyor. “Bizi buldular. Zaman Çıkrığının başında ayin yapıyorduk. Bizi gözetliyor olmalılar—hiçbir uyarı almadık.” Birden ağlamaya başlıyor. Annem yatıştırırcasına elini omzuna koyuyor.
+inv_jou_Memory5_3 = “Bize saldırdılar. Karşı koyanları öldürdüler. Kaçabilen tek Zaman Ulağı bendim. Ben—benim gitmemem gerekiyordu. Hele—hele bir ailem varken... Ama bir tek ben kalmıştım...” Hıçkırıyor. “Lütfen—Jiana burada mı?”
+inv_jou_Memory5_4 = Köylüler çevremizi sarmış, dinliyor. Jiana çemberden dışarı adım atıyor. Faron onu görür görmez koşup sarılıyor. “Ah, Jiana, sağ salimsin...”
+inv_jou_Memory5_5 = Jiana kaskatı kesilmiş. İki kocası ve bir kızı arkasında duruyor. Ama o da Faron'a sarılıyor. “Evli miydik?”
+inv_jou_Memory5_6 = “Bir oğlumuz vardı...”
+inv_jou_Memory5_7 = “Çok üzgünüm.”
+inv_jou_Memory5_8 = Annem yavaşça ayağa kalkıyor. “Yola çıkmaya hazırlanmalıyız, ama çemberi hemen ardından tamamlayacağız. Faron, düşüncelerini toplamak için biraz zaman ayırmanı öğütlerim; sen de öyle yapmalısın, Jiana. Klana yeniden kabul edileceksin, Faron; hepimizde her zaman bir ailen olacak. Ama seni kabul edip etmemek Jiana'ya kalmış. Fedakârlığın çok büyüktü ve bu süreç zaman alacak, ama bize kazandırdığın şey de tam olarak bu, Faron: zaman.”
+inv_jou_Memory5_9 = Titreyerek başını sallıyor. “Teşekkür ederim.”
+inv_jou_Memory5_10 = Annem baş gözcümüz Kallin'e dönüyor. “Ormanda her an gözcülerimiz bulunmalı. Lachiemlilerin bizi yeniden bulmasına izin verilemez. Yarın göç ediyoruz.”
+inv_jou_Memory5_11 = Elimi karnıma koyuyorum—şimdiden büyümeye başladı bile. Tarihin başka bir yolunda bir çocuğu geride bırakmayı aklım almıyor. Artık umarım hiçbir zaman Zaman Ulağı olarak gitmek zorunda kalmam.
+inv_jou_Memory5_12 = Bir seçeneğim olacak mı, merak ediyorum.

@@ -1,0 +1,156 @@
+# 06-gunluk — günlük menüsü: ansiklopedi dosyaları, Genza'nın notları, görevler ve tabelalar (parti 6/15)
+# Hitap: görev açıklamalarında oyuncuya "sen". Bu partide karakterler arası hitap yok.
+
+# ---- dosya 2-3: Vilete
+inv_jou_File2 = Vilete
+inv_jou_File2_desc = Vilete gezegeni hakkında bir ansiklopedi maddesi.
+inv_jou_File2_0 = Vilete, gaz devi Corandar gezegeninin yörüngesinde dönen bir uyduydu ve Parat Ankha güneş sisteminde yaşam barındıran iki gezegenden biriydi. Gezegenin Plazmosfer adı verilen benzersiz bir atmosferi vardı; bu atmosfer, eşsiz bir radyasyon türü olan Plazmayla doluydu.
+inv_jou_File2_1 = 38 AE yılında, Kız Kardeşler Savaşının doruk noktasında gezegen yok edildi. Gezegenin kalıntıları bugün hâlâ Lachiem göğünde, Corandar'ı çevreleyen fuşya renkli halkalar olarak görülebilir.
+
+inv_jou_File3 = Vilete (+)
+inv_jou_File3_desc = Vilete gezegeni hakkında güncellenmiş bir ansiklopedi maddesi.
+inv_jou_File3_0 = Vilete, gaz devi Corandar gezegeninin yörüngesinde dönen bir uydudur ve Parat Ankha güneş sisteminde yaşam barındıran iki gezegenden biridir. Gezegenin Plazmosfer adı verilen benzersiz bir atmosferi vardır; bu atmosfer, özel bir radyasyon türü olan Plazmayla doludur.
+inv_jou_File3_1 = 14 BE yılında Vilete'nin Plothar eyaletindeki ücra bir adada Lachiem'e açılan bir geçit keşfedildi. 1 AE yılında Vilete'nin hükümdarı Lachiem'i sömürgeleştirmeye başladı. 38 AE yılında, Kız Kardeşler Savaşının doruk noktasında, iki gezegen arasındaki geçit yok edildi.
+inv_jou_File3_2 = Vilete, 9 yıl süren bir savaşın ardından 1025 AE yılında Lachiem tarafından fethedildi.
+
+# ---- dosya 4-5: Kız Kardeşler Savaşı
+inv_jou_File4 = Kız Kardeşler Savaşı
+inv_jou_File4_desc = Kız Kardeşler Savaşı hakkında bir ansiklopedi maddesi.
+inv_jou_File4_0 = Lachiem'in azılı rakibi Vilete, Lachiem'in kaynaklarına hükmetmek isteyen deli bir despot tarafından yönetiliyordu.
+inv_jou_File4_1 = 38 AE yılında Vilete'nin baskısına karşı ayaklanan Lachiem, dünyalar arasındaki geçidin denetimini ele geçirdi ve onu sonsuza dek yok edecek bir cihaz inşa etti—cihaz, bütün Vilete'yi de onunla birlikte yok edecekti. Lachiem İmparatorluğunun kurucusu Büyük Kraliçe Aelana'nın bu yürek parçalayıcı ama gerekli eylemi, Vilete'nin kötülüğüne sonsuza dek son verdi ve Kız Kardeşler Savaşını Lachiem'e kazandırarak yeni bir altın çağ başlattı.
+
+inv_jou_File5 = Kız Kardeşler Savaşı (+)
+inv_jou_File5_desc = Kız Kardeşler Savaşı hakkında bir ansiklopedi maddesi.
+inv_jou_File5_0 = Lachiem'in azılı rakibi Vilete, Lachiem'in kaynaklarına hükmetmek isteyen deli bir despot tarafından yönetiliyordu.
+inv_jou_File5_1 = 38 AE yılında Vilete'nin baskısına karşı ayaklanan Lachiem, dünyalar arasındaki geçidi yok etti. Lachiem İmparatorluğunun kurucusu Büyük Kraliçe Aelana'nın bu cesur eylemi, Vilete'nin baskısına son verdi ve Kız Kardeşler Savaşını Lachiem'e kazandırarak yeni bir altın çağ başlattı.
+
+# ---- dosya 6: Kasvet araştırması (bilimsel makale özeti)
+inv_jou_File6 = Kasvet Araştırması
+inv_jou_File6_desc = Kasvete karşı olası tedaviler üzerine yapılmış bir araştırmanın özeti.
+inv_jou_File6_0 = Kasvetin tedavisinde önerilen yöntemler ve etkinlikleri
+inv_jou_File6_1 = ÖZET
+inv_jou_File6_2 = Çeşitli olumsuz belirtilerle ilişkilendirilen genetik bir hastalık olan Kasvet, bin yılı aşkın süredir Lachiem yerlilerine musallat olmaktadır. Bu makalede, hastalık için gen modifikasyonu, sentetik plazma infüzyonu ve plazma radyasyonuna geçici maruz bırakma yoluyla olası tedaviler öneriyoruz. Deneylere, yaşları 20 ile 40 arasında olan 50 yetişkin (yöntem başına) katıldı. Sonuçlar, hem kısa hem uzun vadeli incelemelerde bütün yöntemler için istatistiksel olarak anlamlı çıktı (p değerleri 0,01'den küçük). Kısa vadeli ölçümler, rahatlamanın gen modifikasyonu deneklerinin %0'ında, sentetik plazma deneklerinin %88'inde ve plazma radyasyonu deneklerinin %100'ünde hem bildirildiğini hem de ölçüldüğünü göstermektedir. Uzun vadeli ölçümler, deney gruplarından ikisinde görülen bu rahatlamanın kalıcı olmadığını göstermektedir: deneklerin %86,2'si bir hafta içinde, %100'ü ise üç hafta içinde başlangıçtaki rahatsızlık düzeyine dönmüştür. Teknoloji geliştikçe gen modifikasyonu üzerine daha fazla araştırma yapılmasını öneriyoruz.
+
+# ---- dosya 7: İmparator Nuvius
+inv_jou_File7 = İmparator Nuvius
+inv_jou_File7_desc = Lachiem İmparatorluğunun hükümdarı hakkında bir ansiklopedi maddesi.
+inv_jou_File7_0 = Nuvius Erovia, 1045 AE yılından beri Lachiem İmparatorluğunun hükümdarıdır. Yüce imparatorun hükmü yalnızca anavatan Lachiem'e değil, Erneah galaksisinin dört bir yanında keşfedilip sömürgeleştirilen pek çok yaşanabilir ötegezegene de uzanır.
+inv_jou_File7_1 = Nuvius, 1013 AE yılında Varndagray Metropolü'nde İmparator Leonius'un tek çocuğu olarak dünyaya geldi. Küçük yaşta büyüye karşı doğal bir yatkınlık gösterdiğinden özel olarak eğitildi ve güçlü bir savaşçı olarak yetiştirildi. Veliaht olan Nuvius, reşit olunca orduda liderlik görevleri üstlenmeye başladı.
+inv_jou_File7_2 = 1045 AE yılında Nuvius, geleneksel veraset törelerine uyarak babasına ölüm kalım düellosu için meydan okudu. Galip gelen Nuvius tahta çıktı. Nuvius'un yönetiminde imparatorluk, tarihinde hiç olmadığı kadar serpilip gelişti.
+
+# ---- dosya 10: Winderia
+inv_jou_File10 = Winderia
+inv_jou_File10_desc = Winderia gezegeni hakkında bir ansiklopedi maddesi.
+inv_jou_File10_0 = Winderia, Erneah galaksisinde küçük ve kırsal bir gezegendir. Bu ötegezegen ilk kez 869 AE yılında Lachiem bilim insanları tarafından yüksek güçlü teleskoplarla keşfedildi.
+inv_jou_File10_1 = 1032 AE yılında “Emel” adlı imparatorluk uzay gemisi Winderia'ya başarılı bir yolculuk yaptı, ancak gezegeni ve uygarlığını uzaktan incelemek için yörüngede kaldı. Birkaç aylık araştırmanın ardından gezegenin akıllı sakinleriyle temas kurmanın yerinde olacağına karar verildi.
+inv_jou_File10_2 = Winderialı yerlilerin barışçıl olduğu anlaşıldı ve sonunda Lachiem ile Winderia arasında başarılı bir ticaret anlaşması imzalandı. İmparatorluk bugün Winderialılarla, onların doğal kaynakları karşılığında serbestçe teknoloji ticareti yapmaktadır. Birkaç küçük isyana rağmen İmparatorluğun Winderia ile ilişkisi son derece olumlu kabul edilmektedir.
+
+# ---- dosya 16-20: Genza'nın notları (kötü şöhretli bilim insanı)
+inv_jou_File16 = Elveda E.N.K.A.Z.
+inv_jou_File16_desc = Kötü şöhretli bilim insanı Genza'nın bir savaş teknolojisi programı hakkındaki notları.
+inv_jou_File16_0 = ENKAZ programı (Esinini Nesli Kurumuş canlılardan Alan Zırhlılar) nihayet aşamalı olarak kullanımdan kaldırılıyor. Bir gezegenler arası savaşı da kapsayan otuz yılı aşkın başarılı hizmetinin ardından, kullanılmayan bütün birimleri hurdaya çıkarmaya karar verdik. İçimden bir parça ENKAZ'ı özleyecek; her yeni modelde çoktan ölmüş hayvanlardan ilham alınması bana hep pek sevimli gelmiştir. Sanki tasarımcılar o hayvanın bütün türünü yok ettikleri için sessizce özür diliyordu (o yok oluş kasıtlı olsun ya da olmasın!).
+inv_jou_File16_1 = Yine de gizemli “müttefikimiz”den aldığımız yeni teknoloji, ENKAZ programının herhangi bir biriminden şüphesiz çok daha üstün—ister hızda ister maliyette, isterse düpedüz öldürücülükte.
+inv_jou_File16_2 = Bilimdeki bu yeni ve heyecan verici ilerlemelere rağmen, içimden bir parça ENKAZ serisinin o tuhaf ve sevimli küçük yaratıklarını hep özleyecek.
+
+inv_jou_File17 = Biyoteknoloji
+inv_jou_File17_desc = Kötü şöhretli bilim insanı Genza'nın biyoteknoloji hakkındaki notları.
+inv_jou_File17_0 = Biyoteknolojik savaş makinelerinin yeni serisi oldukça etkili olduğunu kanıtlıyor. Basit metal otomatları düpedüz biyolojik organlarla bir araya getirmek aklımın ucundan bile geçmezdi. Dev organik gözleri—güçlendirilmiş hâlleriyle—robotlarda görme kaynağı olarak kullanmanın bu kadar işe yaraması beni şaşırttı. Elbette tasarımın kasıtlı bir yan etkisi de bu kadar tedirgin edici olmaları.
+inv_jou_File17_1 = Bu yeni teknolojinin öncüsü olan Amadeus benim için biraz muamma. Surflynd'den geldiğini iddia ediyor, ama o gezegenin bilimsel gelişmişliğinin ne kadar ilkel olduğu düşünülürse bu iddiayı saçma buluyorum. Ne var ki yeni imparator şüpheciliğimi paylaşmıyor—en azından umursuyor gibi görünmüyor. Belki Amadeus'un biyoteknolojik yaratımlarına tersine mühendislik uygulamayı denerim. Cevaplarımı orada bulabilirim.
+
+inv_jou_File18 = Deney #11
+inv_jou_File18_desc = Kötü şöhretli bilim insanı Genza'nın on birinci deneyi hakkındaki notları.
+inv_jou_File18_0 = ...denek, anne babası hiçbir yetenekten nasibini almamış olmasına rağmen ileri bir büyüme hızının yanı sıra yeni psişik yetenekler de sergiledi. Asıl hedefimize henüz ulaşamadığımız için meslektaşlarım bu deneyi başarısız sayıyor, ama bence en azından doğru yönde atılmış bir adım. Bu, bir sonraki deneyim için bir sıçrama tahtası olacak...
+inv_jou_File18_1 = Ek bir not: meslektaşlarımdan bazıları bu araştırma için gittiğimiz uç noktaları kaldıramıyor gibi. Onları suçlamıyorum: bilinmeyen organik maddeyi sıradan bir Winderialının embriyosuna eklemek, modern bilimsel tekniklerin çoğundan epey büyük bir sıçrama. Kötülük yaptığımı biliyorum. Ama daha ileriye, daha hızlı ulaşmanın nihayetinde etik yükümlülüğümüz olduğunu öne sürüyorum. Amadeus'un tasarımlarının ötesine geçen bilimsel ilerleme, iblislere bağımlılığımızdan kurtulmamızı sağlayacak. İmparatorluğa düzen getireceğiz. Gerçek Lachiem yolu bu değil mi?
+
+inv_jou_File19 = Deney #13
+inv_jou_File19_desc = Kötü şöhretli bilim insanı Genza'nın on üçüncü deneyi hakkındaki notları.
+inv_jou_File19_0 = ...son birkaç deneyimin sonuçları üzerine biyoteknolojik DNA'yı yetişkin bir Lachiem soylusunun DNA'sına eklemeyi denemeye karar verdim. Canavarca, evet, ama imparatorumuz çalışmalarımda bana serbestlik tanıdı. Siyasi rakipleri ortadan kaldırma becerimden pek memnun görünüyor. Talihli bir yan etki sanırım.
+inv_jou_File19_1 = Eklemenin denek üzerindeki etkileri çok çabuk ortaya çıktı, ama denekte bariz bir fiziksel rahatsızlık da görüldü. Sonuçta elde edilen yararlar şunlar: vücudun boyutunda ve gücünde hızlı bir artış (varlıklılar arasında pek rağbet gören sıradan DNA iyileştirmelerinin hepsinden çok daha hızlı) ve büyü yeteneğinde belirgin bir gelişme. Ne var ki derinin soyulup dökülmesi ve kasların... düzensiz biçimde yeniden yapılanması gibi olumsuz yan etkiler, bu işlemi herhangi bir pratik uygulama için elverişsiz kıldı.
+inv_jou_File19_2 = Bu deneyin sonuçları iblis tasarımlarıyla örtüşüyor gibi. Bu tür bir canavarlığı daha önce de gördüm. Henüz onların etkisinden kurtulmuş değilim. Belki de onların biyoteknik tasarımlarını tümüyle geride bırakmalıyız. Ne gerekiyorsa yapacağım... Bunun üzerine kafa yormam gerekecek...
+
+inv_jou_File20 = Kökenler
+inv_jou_File20_desc = Kötü şöhretli bilim insanı Genza'nın, Amadeus'un biyoteknolojisinin kökenleri hakkındaki notları.
+inv_jou_File20_0 = Amadeus'un tasarlamamıza yardım ettiği biyoteknolojik ucubelerde güçlü bir psişik aura var. Artık nedenini biliyorum: tersine mühendislik çalışmalarım ve (onca konu varken) tarih üzerine yaptığım ek araştırmalar sonucunda varabildiğim tek sonuç, Amadeus'un kendisinin de psişik bir varlık olduğu. Kaba tabirle, bir iblis.
+inv_jou_File20_1 = Tekniklerinin Lachiem'e yarar sağlayacağına şüphe yok; ölümcül olduklarını şimdiden kanıtladılar. Ama tasarımlarının uyandırdığı korkunun bir sebebi var. O—ve soydaşları, çünkü başkaları da olduğuna inanıyorum—peşlerinden gelen nefretle, tiksintiyle ve kaosla besleniyor.
+inv_jou_File20_2 = Şimdilik Lachiem'in işine yarıyor. Ama onlara bel bağlamayı sürdüremeyiz. Lachiem düzen üzerine, denetim üzerine kuruludur; böyle bir kaosun her yerde peşimizden gelmesine göz yumamayız. Bizi bu sözde müttefiklerden kurtarmanın bir yolunu bulmalıyım.
+
+# ---- görevler: başlık ve durum etiketleri
+inv_jou_quest_Title = Görev:
+inv_jou_quest_Status = Durum:
+inv_jou_quest_Status_Started = Başladı
+inv_jou_quest_Status_InProgress = Sürüyor
+inv_jou_quest_Status_ReadyToTurnIn = Rapor Ver!
+inv_jou_quest_Status_Closed = Tamamlandı
+
+# ---- Neliste'nin görevleri
+inv_jou_quest_Astrologer = Neliste
+inv_jou_quest_Astrologer_desc = Gezgin bir maceracı ve simyacı.
+inv_jou_quest_Astrologer_1 = Kayıp Aletler
+inv_jou_quest_Astrologer_1_desc = Neliste gölün öbür yakasında kaybettiği Simya Aletlerini bulmanı istedi.
+inv_jou_quest_Astrologer_2 = Kaderimiz
+inv_jou_quest_Astrologer_2_desc = Neliste Kız Kardeşler Savaşının nasıl bittiğini öğrenmeni istedi.
+inv_jou_quest_Astrologer_3 = Çare Arayışı
+inv_jou_quest_Astrologer_3_desc = Neliste Kasvetin gelecekte tedavi edilip edilmediğini öğrenmeni istedi.
+inv_jou_quest_Astrologer_4 = Egzotik İthalat
+inv_jou_quest_Astrologer_4_desc = Neliste 3 Plazma Kozası Çekirdeği bulmanı istedi.
+inv_jou_quest_Astrologer_5 = Yıldızlar Denizi
+inv_jou_quest_Astrologer_5_desc = Neliste bir Galaksi Taşı bulmanı istedi.
+
+# ---- Rameda'nın görevleri
+inv_jou_quest_Medic = Rameda
+inv_jou_quest_Medic_desc = Vilete Ordusunda bir sıhhiyeci.
+inv_jou_quest_Medic_1 = Fareler ve İlaçlar
+inv_jou_quest_Medic_1_desc = Rameda'ya ormandan 4 Şifalı Ot gerekiyor.
+inv_jou_quest_Medic_2 = Tıbbi Mantarlar
+inv_jou_quest_Medic_2_desc = Rameda'ya mağaralardan 2 Mantar gerekiyor.
+inv_jou_quest_Medic_3 = Plazma Paniği
+inv_jou_quest_Medic_3_desc = Rameda'ya mağaralardan bir Plazma Kristali gerekiyor.
+inv_jou_quest_Medic_4 = Damardan Çözümler
+inv_jou_quest_Medic_4_desc = Rameda'ya tıbbi kalitede Plazma gerekiyor.
+inv_jou_quest_Medic_5 = Savaş Suçu Dedektifi
+inv_jou_quest_Medic_5_desc = Rameda'ya Vilete'nin savaş suçlarına dair somut kanıt gerekiyor.
+
+# ---- Haristel'in görevleri (başlıklar ses tekrarlı harekât adları)
+inv_jou_quest_Captain = Haristel
+inv_jou_quest_Captain_desc = Vilete Ordusunda bir yüzbaşı.
+inv_jou_quest_Captain_1 = Portakal Planı
+inv_jou_quest_Captain_1_desc = Haristel 15 Bitkiyarasayı yenmeni emretti.
+inv_jou_quest_Captain_2 = Siren Seferi
+inv_jou_quest_Captain_2_desc = Haristel 10 Sireni yenmeni emretti.
+inv_jou_quest_Captain_3 = Ordu Operasyonu
+inv_jou_quest_Captain_3_desc = Haristel 20 Şövalye ve Okçuyu yenmeni emretti.
+inv_jou_quest_Captain_4 = Büyücü Baskını
+inv_jou_quest_Captain_4_desc = Haristel 8 Kraliyet Muhafızını yenmeni emretti.
+inv_jou_quest_Captain_5 = Dönek Düellosu
+inv_jou_quest_Captain_5_desc = Haristel eski gözde askeri Cantoran'ı yenmeni emretti.
+
+# ---- Seykis'in görevleri (başlıklar imalı kelime oyunları)
+inv_jou_quest_Quartermaster = Seykis
+inv_jou_quest_Quartermaster_desc = Vilete Ordusunda bir levazımcı.
+inv_jou_quest_Quartermaster_1 = Etkileyici Bir Gece
+inv_jou_quest_Quartermaster_1_desc = Seykis'e tayın için 5 Cheveur Budu gerekiyor.
+inv_jou_quest_Quartermaster_2 = Kuyruk Peşinde
+inv_jou_quest_Quartermaster_2_desc = Seykis'e tayın için 3 Bakır Vivern Kuyruğu gerekiyor.
+inv_jou_quest_Quartermaster_3 = Yılanbalığıyla Güreş
+inv_jou_quest_Quartermaster_3_desc = Seykis'e tayın için bir parça Yılanbalığı Eti gerekiyor.
+inv_jou_quest_Quartermaster_4 = Göğüs Gere Gere
+inv_jou_quest_Quartermaster_4_desc = Seykis'e tayın için bir parça Cheveur Göğsü gerekiyor.
+inv_jou_quest_Quartermaster_5 = Et Kutusu
+inv_jou_quest_Quartermaster_5_desc = Seykis'e yiyecek kıtlığına son verecek bir şey gerekiyor.
+
+# ---- Eschem'in görevleri
+inv_jou_quest_SickSoldier = Eschem
+inv_jou_quest_SickSoldier_sick = Hasta Asker
+inv_jou_quest_SickSoldier_desc = Vilete Ordusunda bir asteğmen. Kasvete yakalanmış.
+inv_jou_quest_SickSoldier_sick_desc = Mağaralarda bulunan kimliği belirsiz bir adam. Kasvete yakalanmış.
+inv_jou_quest_SickSoldier_1 = Bir Kalem
+inv_jou_quest_SickSoldier_1_desc = Asker senden olgun bir Cheveur Tüyü ve biraz Siren Mürekkebi istedi.
+inv_jou_quest_SickSoldier_2 = Bir Hediye
+inv_jou_quest_SickSoldier_2_desc = Eschem senden bir parça Gümüş Cevheri istedi.
+inv_jou_quest_SickSoldier_3 = Bir Randevu
+inv_jou_quest_SickSoldier_3_desc = Eschem ormandaki şelaleye kadar kendisine eşlik etmeni istedi.
+
+# ---- tabelalar (şehir çeşmesi ve orman yön tabelası; boşluklar piksel genişliğine göre ayarlandı)
+sign_city_fountain_ael = BÜYÜK AELANA
+sign_city_fountain_em = EBEDÎ ANA
+sign_forest_directions = $E     Dingin Göl   \n                  İç Kale    $I

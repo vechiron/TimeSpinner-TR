@@ -1,0 +1,122 @@
+# 05-gunluk — günlük menüsü: mektuplar ve ansiklopedi dosyaları (parti 5/15)
+# Hitap (Soru 6, A): Aelana İmparatora "siz"; Truant Aelana'ya "sen"; Aelana Philia'ya aşk mektubunda "sen".
+
+# ---- mektup 2: tavsiye mektubu (Thraena)
+inv_jou_Letter2 = Tavsiye Mektubu
+inv_jou_Letter2_desc = Genç bir siyasetçi için yazılmış tavsiye mektubu.
+inv_jou_Letter2_0 = Birleşik Vilete Sarayına Aelana için Tavsiye Mektubu
+inv_jou_Letter2_2 = İlgili makama,
+inv_jou_Letter2_3 = Öğrencim Aelana'ya başkentteki saray büyücüleri arasında bir yer verilmesini tavsiye etmek için yazıyorum.
+inv_jou_Letter2_4 = Aelana'yı on üç yıl önce, alt şehirde burslu öğrenci aramak için yaptığımız bir gezi sırasında keşfettik. Hiçbir yeteneği olmayan alt sınıftan bir ailenin kızı olarak doğmasına rağmen Aelana, baskı altında kaldığında son derece güçlü bir aura ortaya koydu. Kanunun gerektirdiği üzere onu yanımıza alıp kraliyet akademimizde eğittik. Öğrettiklerimizi çabucak benimsedi ve becerisiyle, yeteneğiyle yaşıtlarının çoğunu geride bıraktığını kanıtladı.
+inv_jou_Letter2_5 = Ayrıca merhametli bir insan, diplomatik bir konuşmacı ve Birleşik Vilete'nin potansiyeline tutkuyla inanan biridir. Daha edinmesi gereken çok tecrübe olsa ve öfkesine daha iyi hâkim olmayı öğrenmesi gerekse de sarayın değerli bir üyesi olacağına ve ilerleyen yıllarda önemli bir siyasetçi olabileceğine inanıyoruz.
+inv_jou_Letter2_6 = Herhangi bir sorunuz olursa benimle iletişime geçmekten çekinmeyin.
+inv_jou_Letter2_8 = Saygılarımla,
+inv_jou_Letter2_9 = Kızıl Thraena, Wriynar Kraliyet Akademisi Müdürü.
+
+# ---- mektup 3: bağımsızlık bildirgesi (Philia)
+inv_jou_Letter3 = Bağımsızlık Bildirgesi
+inv_jou_Letter3_desc = Lachiem'in lideri tarafından yayımlanan bir bağımsızlık bildirgesi.
+inv_jou_Letter3_0 = Vilete'nin yöneticilerine Lachiem Bağımsızlık Bildirgesi:
+inv_jou_Letter3_2 = Ben, yeni taç giymiş Lachiem Kraliçesi Philia, bugünden itibaren dünyamızı artık Vilete'nin denetimi altında olmayan bağımsız bir ulus ilan ediyorum.
+inv_jou_Letter3_3 = Bizi buraya mahkûm olarak göndermiş olabilirsiniz, ama Lachiem sizin hükmedeceğiniz bir sömürge değildir. Kendi hâlimize bırakıldık ve kendimizi yönetmeyi seçtik. Faşist rejiminizi reddediyoruz; aura merkezli liyakat düzeninizi reddediyoruz; tahakkümünüzü reddediyoruz.
+inv_jou_Letter3_4 = Aura gücü ne olursa olsun herkesin eşit olduğuna inanıyoruz. Plazmasız hayat ne kadar zorlu olsa da herkesin yaşamayı hak ettiğine inanıyoruz. Haklarımız ve hayatlarımız için savaşacağız. Burada serpilip gelişeceğiz.
+inv_jou_Letter3_5 = Lachiem güçlü olacak. Vilete, zulmünün yükselişimize nasıl yol açtığını daima hatırlasın.
+inv_jou_Letter3_7 = — Kraliçe Philia, Bağımsız Lachiem'in İlk Hükümdarı
+
+# ---- mektup 4: siyasi tavsiye (Aelana, İmparatora)
+inv_jou_Letter4 = Siyasi Tavsiye
+inv_jou_Letter4_desc = Aelana'nın Lachiem meselesinde nasıl davranılacağına dair tavsiyelerini içeren mektup.
+inv_jou_Letter4_0 = İmparator Vol Terrilis,
+inv_jou_Letter4_2 = Size yalnızca birkaç yıldır danışmanlık yaptığımı biliyorum, ama Lachiem'in sözde bağımsızlığıyla ilgili bu son meselede beni sonuna kadar dinlersiniz umarım.
+inv_jou_Letter4_3 = İçgüdünüz sizi bu “Lachiemli”lere karşı intikam hırsıyla saldırmaya itecektir; ne de olsa mahkûmların gardiyanlarından bağımsızlığını ilan etmeye hakkı var mıdır? Elbette yoktur.
+inv_jou_Letter4_4 = Ne var ki Philia'nın gerçekte yaptığı tek şey bu—içi boş bir beyanda bulunmak. Bir hapishanenin duvarları arasında bağımsızlığın hiçbir anlamı yoktur. Öyle olduğunu ilan edebilirler, ama Lachiem'e gidip gelmenin tek yolu olan geçidi—deyim yerindeyse hapishanenin duvarlarını—biz denetlediğimiz sürece hâlâ Lachiem'deler.
+inv_jou_Letter4_5 = Yine de Lachiem'in nüfusu, özellikle son Güvenlik ve Adalet Fermanlarınızdan bu yana artıyor. Lachiemlilerin gerçek bir tehdit olduğuna inanmasam da—ne de olsa aralarında aurası olan o az sayıdaki kişi de o dünyada zayıf düşüyor—yeterince kışkırtılırlarsa örgütlenip bize karşılık vermeye kalkışabilirler. Ne kadar lehimize olursa olsun her çatışma can kaybına yol açacaktır; halkımız arasındaki huzursuzluğu daha da artıracağını söylemeye bile gerek yok.
+inv_jou_Letter4_6 = Bu nedenle tavsiyem, Lachiemlilerin bağımsızlıklarına inanmalarına izin vermemiz ve bu meseleye karşı daha fazla misillemeye girişmememizdir.
+inv_jou_Letter4_8 = Saygılarımla,
+inv_jou_Letter4_9 = Aelana
+
+# ---- mektup 5: İmparatorun cevabı (Truant, Aelana'ya)
+inv_jou_Letter5 = Saflık
+inv_jou_Letter5_desc = Vol Terrilis'in, Aelana'nın tavsiyesine verdiği cevap.
+inv_jou_Letter5_0 = Aelana,
+inv_jou_Letter5_2 = Bu Lachiemlilerin bir çeşit bağımsızlık ilan ederek gazabımdan gerçekten kurtulduklarına inanmalarına izin vermenin, er geç çıkacak çekişmeyi önleyeceğini sanıyorsan safsın. Kendilerini ne kadar güçlü sanırlarsa çatışmayı başlatmaları o kadar olası. Ne de olsa onlar bir suçlular dünyası.
+inv_jou_Letter5_3 = Yine de onları doğrudan kışkırtmama gerek yok. Biz güçlüyüz; onlar zayıf.
+inv_jou_Letter5_4 = Barışçıl kalacaklarını gerçekten düşünüyorsan seni onları ziyaret etmeye davet ediyorum. Bir “elçi” olarak git ve diplomasiye nasıl karşılık verdiklerini gör. Bunun umutsuz bir çaba olduğunu göreceksin—ve döndüğünde onlara—ve vatandaşlarımıza—gücün kimde olduğunu hatırlatacak bir saldırı birliği hazırlamış olacağım.
+inv_jou_Letter5_6 = — V.T.
+
+# ---- mektup 6: Aelana'dan Philia'ya
+inv_jou_Letter6 = Diplomatik Mektup
+inv_jou_Letter6_desc = Aelana'nın Lachiem kraliçesine yazdığı bir mektup.
+inv_jou_Letter6_0 = Philia,
+inv_jou_Letter6_2 = Bu mektubu diplomatik bir yazışma kılığında gönderdim; umarım sana sağ salim ulaşır.
+inv_jou_Letter6_4 = Kısacası, seni özlüyorum. Vilete'ye döndüğümden beri birlikte geçirdiğimiz zamandan başka pek bir şey düşünemiyorum—bahçelerdeki sohbetlerimiz, mavi gökyüzünün altındaki akşam yemeklerimiz, soğuk gecelerde sıcaklığın... Kasvetin ilk belirtileri bile dokunuşunun yanında hiçti.
+inv_jou_Letter6_5 = Gözlerimi açtın, Philia. Artık Vilete'ye döndüğüme göre, daha önce hiç görmediğim şeyleri görmeye başlıyorum—öyle özgür bir ortamda yaşıyorum ki altında yatan baskıyı görmemişim. Kültürün ta kendisinin aurası olmayanları nasıl ezdiğini, üst sınıfları da onların çektiklerine nasıl kör ettiğini. İhtiyaçlarının bize nasıl görünmez olduğunu. Bu yalnızca bir sınıf hiyerarşisi değil; onlara insandan aşağı muamele ediliyor.
+inv_jou_Letter6_6 = Öte yandan biz onları büsbütün yok etmeye çalışıyoruz. Büyü sınıfının, büyüsü olmayanlarla çocuk sahibi olması şöyle dursun, onlarla düşüp kalkması bile toplumca yasak. Daha güçlü bir büyücü ırkı yetiştiriyoruz. Sanki Vol Terrilis öbürlerinin ölüp tükenmesini bekliyor.
+inv_jou_Letter6_7 = Ya da yeterince çabuk ölüp gitmeyenleri öldürüyor.
+inv_jou_Letter6_8 = Vol Terrilis güçlü ve yalnızca kendi gücünü önemsiyor; ne Lachiem'le bir uzlaşma olacak ne de bir çatışmada zafer. Yine de sarayda neler yapabileceğime bakacağım. Belki senin için işleri kolaylaştırmanın bir yolunu bulurum.
+inv_jou_Letter6_9 = Umarım kalenin yapımı yolunda gitmeye devam ediyordur.
+inv_jou_Letter6_11 = Seni özlüyorum.
+inv_jou_Letter6_13 = Sevgiyle,
+inv_jou_Letter6_14 = Aelana
+
+# ---- mektup 7: görev bulguları (Aelana, İmparatora)
+inv_jou_Letter7 = Görev Bulguları
+inv_jou_Letter7_desc = Aelana'nın keşif gezisinin sonuçlarını ayrıntılarıyla anlattığı mektup.
+inv_jou_Letter7_0 = İmparator Vol Terrilis,
+inv_jou_Letter7_2 = Bildiğiniz gibi, çekincelerinize rağmen Vilete'ye yaptığım uzun bir diplomatik görevden kısa süre önce döndüm.
+inv_jou_Letter7_3 = Kısacası, kamu güvenliğine dair fermanlarınız gereği Lachiem'e gönderilenlerin sayısı öyle fazlaydı ki bir toplum oluşturmaları kaçınılmazdı. Hayatta kalmak insanın temel dürtüsüdür ve Lachiemliler de—çektikleri acılara rağmen—tam da bunu yapmak için birlikte çalışmaya başladılar. İster beğenin ister beğenmeyin, onlar bizim denetimimizden bağımsız, her yönüyle işleyen bir toplum. Kendi halkımızı Kasvete maruz bırakmak istemiyorsak da öyle kalmaları gerekiyor.
+inv_jou_Letter7_4 = Bununla birlikte, Lachiem toplumunun varlığının bize fayda sağlayabileceğine inanıyorum. İstenmeyenleri Vilete'den uzaklaştırmayı sürdürebiliriz; suçluların geçidin ötesinde de bir yaşam umudu olduğunu bilirlerse kendi vatandaşlarımız arasındaki huzursuzluk da azalır.
+inv_jou_Letter7_5 = Dahası, Lachiem ilk keşfedildiğinde doğal kaynaklar bakımından zengin olduğu kaydedilmişti; sömürgeleştirme planları yalnızca Kasvet yüzünden durdurulmuştu. Ama Kraliçe Philia'nın toplumu artık zaten var; bu da o kaynaklara artık ulaşılabileceği anlamına geliyor.
+inv_jou_Letter7_6 = Bu kaynaklar karşılığında ticaret yapmak üzere Lachiemlilerle bir antlaşma imzalamayı öneriyorum. Böylece hiçbir can bedeli ödemeden bu kaynakların faydasını görürüz. Karşılığında onlara Plazma Kozaları sunabiliriz—Kasvetin en kötü etkilerini hafifletmelerini, daha rahat yaşamalarını sağlarız; biz de emeklerinden daha çok kâr ederiz.
+inv_jou_Letter7_7 = Toplumlarını kabul etmenin bize faydası var, İmparatorum. Bunu heba etmek istemem. Uygun görürseniz resmî bir elçi olarak görevime seve seve devam ederim.
+inv_jou_Letter7_9 = Bağlılıkla,
+inv_jou_Letter7_10 = Aelana
+
+# ---- mektup 8: savaşın başlangıcı (Aelana)
+inv_jou_Letter8 = Kız Kardeşler Savaşı
+inv_jou_Letter8_desc = Savaşın başlangıcını ayrıntılarıyla anlatan tarihî bir belge.
+inv_jou_Letter8_0 = Kız Kardeşlerin 47. yılındayız. Bu yıl, Kız Kardeşler Savaşının başladığı yıl olarak anılacak. Umarım bu kayıt yok olmaz ve tarihe tanıklık eder.
+inv_jou_Letter8_1 = Vol Terrilis'in Kraliçe Philia'yla bir antlaşma yapmayı reddettiğini “resmî olarak” bildirmek için Lachiem'e döndüm. Aslında Vilete'ye geri dönmeye hiç niyetim yoktu. Vol Terrilis yalnızca kendini ve kendi gücünü önemsediğini kanıtladı.
+inv_jou_Letter8_2 = Hatta artık Lachiem'in yeni prensesiyim: kısa bir törenle Kraliçe Philia'yla evlendim. Lachiem'i birlikte yöneteceğiz; hem de Vol Terrilis'in Vilete'yi hiçbir zaman yönetemediği kadar iyi. Ne yazık ki bunun savaş anlamına geleceği açıkça ortaya çıktı.
+inv_jou_Letter8_3 = Karşı çıktım—Vilete'den ayrı yaşamayı deneyemez miydik sadece? Ama Philia burada benden çok daha uzun zamandır yaşıyor. Bir faşistin hükmü altında, o faşist başka bir dünyada olsa bile, barış içinde yaşanamayacağını anlıyor.
+inv_jou_Letter8_4 = Ama çaresizdik. Biz—bu kadar az aurayla ve Kasvetten bu denli zayıf düşmüşken—Vol Terrilis'in ordusuna karşı savaşmayı nasıl umabilirdik? İsyanın uyandırdığı tutku bile askerlerimize yetmeyecekti.
+inv_jou_Letter8_5 = Ölümsüzler bize, umutsuzluğun ve öfkenin dibine vurduğumuz bir gece göründü.
+inv_jou_Letter8_6 = Anladığım kadarıyla onlar güçlü ruhlar, büyülü enerjinin vücut bulmuş hâlleri—belki de saf auralar. Bize yardım teklif ettiler.
+inv_jou_Letter8_7 = Kolay bir karar değildi. Ama gerekliydi. Vilete'ye karşı ancak onların yardımıyla bir şansımız olabilirdi.
+inv_jou_Letter8_8 = Bize güç verdiler. Bize umut verdiler.
+inv_jou_Letter8_9 = Kız Kardeşler Savaşı...
+inv_jou_Letter8_11 = Ne gerekiyorsa onu yapıyoruz.
+inv_jou_Letter8_12 = — Lachiem Prensesi Aelana
+
+# ---- mektup 9: barış antlaşması (Aelana, İmparatora)
+inv_jou_Letter9 = Barış Antlaşması
+inv_jou_Letter9_desc = Aelana'nın Vilete'yle barış için yalvardığı bir mektup.
+inv_jou_Letter9_0 = İmparator Vol Terrilis,
+inv_jou_Letter9_2 = Barış dileğine güç katması için bu mektubu Bağımsız Lachiem'in meşru hükümdarı Kraliçe Philia'yla birlikte gönderiyorum. Ortak geçmişimizi göz önünde bulundurarak onun yerine benim gelmemi önerdim, ama o dünyasını bizzat temsil etmesinin önemli olduğuna inandı. Umarım bunun ne kadar onurlu bir tutum olduğunu takdir edersiniz.
+inv_jou_Letter9_3 = Dünyalarımız arasındaki geçidin denetimini ele geçirdik. Gördüğünüz gibi gücümüz var; müttefiklerimiz var. Bu dünyada hayatta kalmayı öğrendik; Kasvete bile yenik düşmeyeceğiz. Bu çatışma sürerse binlerce kişi daha ölecek ve siz bizi dize getirmeye bir adım bile yaklaşamayacaksınız.
+inv_jou_Letter9_4 = Size yalvarıyoruz: buna şimdi son verelim. Yıllar önce önerdiğim türden bir anlaşmayı müzakere etmeye hâlâ hazırız; Lachiem'in engin kaynaklarının bir kısmına karşılık Vilete'den Plazma. Her iki tarafın da yararına bir anlaşma.
+inv_jou_Letter9_5 = Lütfen Philia'yı dinleyin. Bilge biridir ve tek istediği barış.
+inv_jou_Letter9_6 = Aynı hatayı yeniden yapmayın.
+inv_jou_Letter9_8 = — Lachiem Prensesi Aelana
+
+# ---- mektup 10: kanlı mektup (imza Truant'ın; konuşan sütunu Aelana diyor)
+inv_jou_Letter10 = Lekeli Mektup
+inv_jou_Letter10_desc = Kanla lekelenmiş gibi görünen bir mektup.
+inv_jou_Letter10_0 = Aelana,
+inv_jou_Letter10_2 = Hayır.
+inv_jou_Letter10_3 = Sen bir aptalsın. Lachiem benimdir—sizler yalnızca birer mahkûmsunuz.
+inv_jou_Letter10_4 = Bunu unutma.
+inv_jou_Letter10_5 = Ve sevgili Philia'nı bir daha göreceğini sanma.
+inv_jou_Letter10_6 = Bana karşı gelmeye kalkışacaklara ibret olmalı.
+inv_jou_Letter10_8 = — Birleşik Vilete İmparatoru Truant Vol Terrilis
+
+# ---- dosyalar: ansiklopedi maddeleri
+inv_jou_File0 = Lachiem
+inv_jou_File0_desc = Lachiem gezegeni hakkında bir ansiklopedi maddesi.
+inv_jou_File0_0 = Lachiem, gaz devi Corandar gezegeninin bir uydusudur; Parat Ankha güneş sisteminde yaşam barındıran tek gezegendir. Gezegenin atmosferi solunabilir havadan oluşur; gezegeni Corandar'ın radyasyonundan koruyan bir ozon tabakası ve manyetik alanı vardır.
+inv_jou_File0_1 = Lachiem, Lachiem İmparatorluğunun anavatanıdır. 928 AE yılında uzay yolculuğu teknolojisini geliştirmesinden bu yana imparatorluğun iyiliksever eli tüm Erneah galaksisine uzanmıştır.
+
+inv_jou_File1 = Lachiem (+)
+inv_jou_File1_desc = Lachiem gezegeni hakkında bir ansiklopedi maddesi.
+inv_jou_File1_0 = Lachiem, gaz devi Corandar gezegeninin bir uydusudur; Parat Ankha güneş sisteminde yaşam barındıran iki gezegenden biridir. Gezegeni Corandar'ın radyasyonundan koruyan bir ozon tabakası ve manyetik alanı vardır. İkinci Kız Kardeşler Savaşı sırasında Lachiem'in atmosferi Vilete'nin kimyasal silahlarıyla zehirlenmiştir.
+inv_jou_File1_1 = Lachiem, Lachiem İmparatorluğunun anavatanıdır. 918 AE yılında uzay yolculuğu teknolojisini geliştirmesinden bu yana imparatorluğun iyiliksever eli tüm Erneah galaksisine uzanmıştır.

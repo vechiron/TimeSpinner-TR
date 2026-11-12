@@ -1,0 +1,220 @@
+# 10-diyalog — son bölümler: geçmişte Nuvius ve Vol Terrilis, rüya diyarı, Zaman Girdabı, son seçim ve sonlar A/B (parti 10/15)
+# Hitap (Soru 6, A): Lunais ile Nuvius, Vol Terrilis, Meyef, Kum Adam arasında "sen"; geçmişteki danışman Aelana'ya Lunais "sen".
+# Aelana İmparatora "siz" (Ekselansları); Haristel ve Lunais kraliçe Aelana'ya "Majesteleri"; Aelana Haristel'e "sen".
+# Lunais klanına toplu seslenişte "siz" (çoğul); Marella, Yorne, Neliste ve annesine "sen".
+
+# ---- B37: geçmişte Prens Nuvius (baba katli)
+cs_nuv_lun_00 = Babamı durdurmak ve klanımı kurtarmak hep amacım, görevim oldu. Winderia'ya geri döneceğim. *Ben* hiç var olmamış olsam bile—bir Zaman Ulağı olarak benim fedakârlığım hep buydu.
+cs_nuv_lun_01 = Annemi kurtarabilirim.
+cs_nuv_nuv_02 = Dur! Kimsin sen??
+cs_nuv_lun_03 = Merhaba, Nuvius.
+cs_nuv_nuv_04 = Bana *Komutan* Nuvius de. Kimsin sen?
+cs_nuv_lun_05 = Adım Lunais. Beni henüz tanımıyorsun.
+cs_nuv_nuv_06 = “Henüz” mü?
+cs_nuv_lun_07 = Söylentileri duymuşsundur, eminim—buraya da o yüzden geldin, değil mi? Geçitler? Zaman Çıkrığı?
+cs_nuv_nuv_08 = Onun hakkında ne biliyorsun?!
+cs_nuv_lun_09 = Var. Az önce kullandım.
+cs_nuv_nuv_10 = Bu—bu inanılmaz!
+cs_nuv_nuv_11 = Sen... Selen'e benziyorsun...
+cs_nuv_lun_12 = Biliyorum. Ama saçlarım senden.
+cs_nuv_nuv_13 = Ne—?
+cs_nuv_lun_14 = Benim zaman çizgimde neler olduğunu bilmek ister misin, Nuvius?
+cs_nuv_lun_15 = Bir çocuğun oluyor. Sonra Zaman Çıkrığını bulma saplantınla onun bütün klanını katlediyorsun.
+cs_nuv_lun_16 = Selen de dâhil.
+cs_nuv_nuv_17 = Ne? Hayır, ben Selen'i seviyorum—
+cs_nuv_lun_18 = Ha! Onu doğru dürüst tanımıyorsun bile. Seni hiçbir zaman sevmediğini de adım gibi biliyorum.
+cs_nuv_nuv_19 = Saçmalık! Beni asla geri çevirmez! Benim kaderim—
+cs_nuv_lun_20 = İmparator olmak. Biliyorum. Kapa çeneni. Sen bir öfke nöbetinde annemi öldüren, güç düşkünü, şımarık bir veletten başka bir şey değilsin.
+cs_nuv_nuv_21 = Bu ne cüret—
+cs_nuv_lun_22 = Söyleyeceklerim bu kadar. Ben bir Zaman Ulağıyım, Nuvius. Yani zamanı değiştirebilirim. Bu da demek oluyor ki—
+cs_nuv_lun_23 = Bu bir baba katli.
+
+# ---- B38: geçmişte İmparator Vol Terrilis (hükümdar katli)
+cs_vol_lun_00 = Babamı durdurmak hep amacım oldu, ama asıl görevim klanımın hayatta kalması—ve bunun birden fazla yolu var.
+cs_vol_lun_01 = Neliste ve diğerleri de... Bir Zaman Ulağı olarak daha büyük bir görevim var.
+cs_vol_lun_02 = Daha iyi bir dünya kurabilirim.
+cs_vol_ael_03 = —haksız sayılmaz, Ekselansları. Hoşunuza gitmeyecek, biliyorum, ama önerim şu—
+cs_vol_ter_04 = İzinsiz giren var! Muhafızlar! Kimsin sen??
+cs_vol_lun_05 = Adım Lunais. Gelecekten geliyorum.
+cs_vol_ter_06 = Gülünç!
+cs_vol_lun_07 = Büyüye değer verirsin, değil mi, Vol Terrilis?
+cs_vol_ter_08 = Bana *İmparator* V—
+cs_vol_lun_09 = Sözüm bitmedi.
+cs_vol_lun_10 = Aelana—Lachiemliler konusunda haklısın. Onları yeniden ziyaret etmelisin, kraliçeleriyle görüşmelisin. Bence ondan hoşlanacaksın.
+cs_vol_lun_11 = Ve Vol Terrilis—saltanatın sona erdi.
+cs_vol_ter_12 = Ne?
+cs_vol_lun_13 = Aelana, şu an görmesi zor, biliyorum, ama Vilete seçkinlerin inanmak istediği gibi bir yer değil. Philia'yla konuş.
+cs_vol_lun_14 = Bir de birkaç Vilete askeri bul—Neliste, Rameda, Seykis, Eschem... Son ikisinin tanışmasını sağla.
+cs_vol_lun_15 = Barış zamanında harika bir hükümdar olacaksın.
+cs_vol_ter_16 = Bu ne cüret—? Bu ihanettir!
+cs_vol_lun_17 = Ben senin tebaandan değilim. Bu ihanet değil...
+cs_vol_lun_18 = Bu hükümdar katli.
+
+# ---- B39: rüya diyarı, Meyef ve Kum Adam
+cs_dfo_0_lun_00 = Ne...?
+cs_dfo_0_lun_01 = Neredeyiz?
+cs_dfo_0_mey_02 = Rüyalar diyarı. Ya da kâbuslar.
+cs_dfo_0_mey_03 = Son darbeyi indirdiğinde çok şey değişti. Onun başka seçeneği yoktu.
+cs_dfo_0_lun_04 = Kimin? Ne konuda seçeneği yoktu?
+cs_dfo_0_mey_05 = Kum Adam'ın. Bu kadar çok şeyi düzeltmeye çalışmak yerine her şeyi bir kenara atmaktan başka seçeneği yoktu.
+cs_dfo_0_lun_06 = Her şeyi...?
+cs_dfo_0_mey_07 = Gerçekliğin tamamını.
+cs_dfo_0_lun_08 = Ne?? Bunu düzeltebileceğimi söylemiştin—*ben* yok olacaktım, *her şey* değil!
+cs_dfo_0_mey_09 = Evet, öyle söyledim.
+cs_dfo_0_mey_10 = Ama bitmedi. Seni kurtardım. Seni buraya, doğduğum yere getirdim. Onu durdurabilesin diye.
+cs_dfo_0_lun_11 = Neden?
+cs_dfo_0_mey_12 = Fazla güçlendi.
+cs_dfo_0_lun_13 = Nedir o?
+cs_dfo_0_mey_14 = Bir tanrı. Öyle şeyler varsa tabii.
+cs_dfo_0_lun_15 = Senin gibi olduğunu söylemiştin.
+cs_dfo_0_mey_16 = Evet.
+cs_dfo_0_lun_17 = Sen bir tanrı mısın?
+cs_dfo_0_mey_18 = Öyle şeyler varsa, belki.
+cs_dfo_0_lun_19 = Ya sen, ne yani—beni buraya mı çektin?
+cs_dfo_0_mey_20 = Seçimini kendin yaptın.
+cs_dfo_0_lun_21 = Hıh.
+cs_dfo_0_lun_22 = Peki bu Kum Adam'ı öldürürsem?
+cs_dfo_0_mey_23 = Kum Adam var olmak zorunda olduğu için var. Zamanı bir şeyin onarması gerek. O ölseydi—yerini başka bir şey almak *zorunda* kalırdı.
+cs_dfo_0_lun_24 = Senin gibi.
+cs_dfo_0_mey_25 = Ya da sen.
+cs_dfo_0_lun_26 = ...
+cs_dfo_0_lun_27 = Ve ben zamanı onarabilirim...
+cs_dfo_0_mey_28 = Yeterince güçlüysen.
+cs_dfo_0_mey_28b = Sen var olduğun için varım. Senin istediğini istiyorum.
+cs_dfo_0_lun_29 = Eh... Kabul edeyim, zaman paradokslarında uzmanımdır... Peki. Sanırım bu Zaman Ulağının bütün kahrolası evrene ileteceği bir haber var: yakında yönetim değişiyor.
+cs_dfo_1_san_00 = Sen!
+cs_dfo_1_san_01 = Amma da cüretkârsın, rüya yavrusu.
+cs_dfo_1_mey_02 = Benden çok üstünmüşsün gibi konuşma. Ben olmasam bu kadar güçlü *olamazdın*.
+cs_dfo_1_san_03 = *O* olmasa, demek istiyorsun. Başıma çok iş açtın, küçük kız.
+cs_dfo_1_lun_04 = Öyle duydum.
+cs_dfo_1_san_05 = Ardında bıraktığın şu karmaşa... Cık cık. Gerçekliği yok etmenin bu kadar uzun sürmesine şaşırdım doğrusu.
+cs_dfo_1_lun_06 = Bunu ben yapmadım—sen yaptın. Ben de her şeyi eski hâline getirmeye geldim.
+cs_dfo_1_san_07 = Rüya yavrusu sana böyle mi söyledi? Neyse, fark etmez. Burada bir gölgeden ibaretsin. Burası benim diyarım. Burada Tanrı benim. Var olan ve var olacak her şey benim.
+cs_dfo_1_lun_08 = Ben buradayken olmaz.
+cs_dfo_1_san_09 = Ben her şeye kadirim, küçük kız! Bunu sen sağladın. Rüya yavrusu varlığını sürdürmeni sağlamış olabilir, ama bu uzun sürmeyecek.
+
+# ---- B40: rüya kapısı ve Zaman Girdabı
+cs_dream_lun_00 = Bu ışık... Bir yerden tanıyorum. Dur. Buradan evimi görebiliyorum! Yok olduğunu söylemiştin.
+cs_dream_mey_01 = Yok oldu. Bu kapı senin rüyalarını yansıtıyor.
+cs_dream_lun_02 = Çok... gerçek gibi...
+cs_dream_mey_03 = Rüyalar güçlüdür, özellikle burada. Geri dönmek ister misin?
+cs_dream_lun_04 = Bu mümkün mü ki? Rüyalar sadece...
+cs_dream_mey_05 = Seni Lachiem'e geri götürebilirim. Ama bu yalnızca bir rüya olur, olabileceklerin basit bir yansıması.
+cs_dream_lun_06 = Nel'i yeniden görebilirim...
+cs_dream_lun_07 = ...yapalım. Hâlâ yapmak istediğim bazı şeyler var.
+cs_gyre_lun_00 = Burası neresi?
+cs_gyre_mey_01 = Varoluştan geriye kalan bu. Fırtınada kaybolan bir gemi gibi, her şey sürüklenip gitti.
+cs_gyre_mey_02 = Enkaz ve döküntüler burada birikti.
+cs_gyre_lun_03 = Epey dağınıkmış...
+cs_gyre_mey_04 = Kum Adam'ı burada bulamazsın, bence geri dönelim.
+cs_gyre_lun_05 = Ama belki onu yenmeme yardım edecek bir şey bulabilirim?
+cs_gyre_mey_06 = Ya da ölümünü bulabilirsin.
+
+# ---- B41: yükseliş ve tanrı katli
+cs_tem_1_lun_00 = !
+cs_tem_1_lun_01 = Ne—?
+cs_tem_1_mey_02 = Güçlüsün, Lunais. Zamanı koruyacak biri olmadan evren var olamaz. Kum Adam da artık yok...
+cs_tem_1_lun_03 = Yoksa ben—?
+cs_tem_1_mey_04 = Yükseliyorsun.
+cs_tem_1_lun_05 = Ben neyim?
+cs_tem_1_mey_06 = Lunais artık yok. Sen zamanın tanrıçasısın. Çağlar boyunca görünen Ebedî Ana sensin.
+cs_tem_1_lun_07 = Ama evren—Kum Adam onu yok etti.
+cs_tem_1_mey_08 = İşin ironik yanı, buna zamanı olmadı. Her şey hâlâ burada, onun diyarında.
+cs_tem_0_lun_00 = Sonsuza dek saklanamazsın, Kum Adam.
+cs_tem_0_san_01 = Saklanmak zorunda olduğumu sanarak kendini kandırıyorsun. Beni güçlü kıldın, Lunais. İzim gerçekliğin dört bir yanına yayılıyor. Ben bir tanrıyım.
+cs_tem_0_lun_02 = Öyle duydum. Ardımdan her şeyi düzeltiyordun, öyle mi?
+cs_tem_0_lun_03 = Ama sonra ne yaptın, pes mi ettin? Her şeyi çöpe mi attın? Görünüşe bakılırsa işinde pek iyi değilmişsin.
+cs_tem_0_san_04 = Bu ne cüret. Ben bir tanrıyım! Ben yükselmişlerden biriyim—
+cs_tem_0_lun_05 = Tabii. Ama işte buradayım. Ve evrenimi geri istiyorum.
+cs_tem_0_lun_06 = O hâlde sanırım *bu* da *tanrı katli.*
+
+# ---- B42: iç odanın yolu
+cs_tem_2_lun_00 = ...Hımm. İç odaya giden yol kapalı.
+cs_tem_2_lun_01 = Çok akıllıca, Kum Adam.
+
+# ---- B43: son seçim menüsü (kısa tutulur)
+Tutorial_Rule = Lachiem İmparatoriçesi olarak hüküm sür
+Tutorial_Leave = Hayatını geçmişte yaşa
+Tutorial_Winderia = Nuvius'u geçmişte durdur
+Tutorial_Vilete = Vol Terrilis'i geçmişte durdur
+
+# ---- B44: son A — Lachiem'in hükümdarı
+cs_enda_0_lun_00 = Başta işler zorlu geçti—Lachiemlilerin hepsi iktidarın el değiştirmesini kabul etmedi.
+cs_enda_1_lun_00 = Ama sonra, Lachiem'i kurtarmaya gelmiş, ete kemiğe bürünmüş Ebedî Ana olduğum ilan edildi. Ben de oyuna uydum. Ne de olsa zamana *gerçekten* hâkim olmuştum.
+cs_enda_1_lun_01 = Geçmişte yaptıklarım Lachiem'i zayıflatmıştı. Ama büyük bir potansiyeli vardı—babamın heba ettiği bir potansiyel. İyi hükümdarların nasıl yönettiğini Aelana'dan görmüştüm...
+cs_enda_2_ael_00 = ...mahsur kalan Viletliler için yerleşim alanının inşasına başlayacağız.
+cs_enda_2_ael_01 = Haristel, duyduğuma göre geriye kalan iblislerin kökünü kazıma işinin başına geçmeye gönüllü olmuşsun?
+cs_enda_2_har_02 = Evet, Majesteleri.
+cs_enda_2_har_03 = Ortak bir dostumuz... yeniden inşaya elimden geldiğince yardım etmem için bana ilham verdi.
+cs_enda_2_ael_04 = Teşekkür ederim. O hâlde ortak bir görev gücü kuracağız: halklarımızı yeniden birleştirmenin ilk adımı.
+cs_enda_2_ael_05 = Hepinize sesleniyorum—bu birkaç yılın zor geçtiğini biliyorum. Adına Kız Kardeşler Savaşı denen bu savaşı hiç öngörmemiştim. Hiç istememiştim de. Ama artık bitti—güçlü bir ulus kurmanın zamanı geldi. Barış içinde bir ulus.
+cs_enda_2_ael_06 = Bir gün kardeş dünyamızla yeniden birleşebiliriz. O günün güzel bir gün olmasını istiyorum.
+cs_enda_3_sey_00 = Sence onu bir daha görecek miyiz?
+cs_enda_3_nel_01 = ...Bilmiyorum.
+cs_enda_3_nel_02 = Umarım. Ama derinlerde onu bir şey yönlendiriyordu—bence bu zaman hiç onun zamanı olmayacaktı. Ben ne kadar istesem de.
+cs_enda_3_nel_03 = Sanırım *bizi* feda etmek zorundaydı. Umarım buna değmiştir.
+cs_enda_3_nel_04 = Derinlerde onu bir şey yönlendiriyordu—bence bu zaman hiçbir zaman onun zamanı olmayacaktı.
+cs_enda_3_sey_05 = En azından burada iyi şeyler yaptı. Onu özleyeceğim.
+cs_enda_3_esc_06 = Hem de gerçekten iyi şeyler.
+cs_enda_3_nel_07 = Ben de onu özleyeceğim. Umarım her neredeyse mutludur.
+cs_enda_4_lun_00 = ...bu bildiriyle, bilginin peşinden her pahasına koşarak Lachiemlilerin çıkarlarını koruyamayan Lachiem Bilimsel İlerleme Dairesini kaldırıyorum.
+cs_enda_4_lun_01 = Onun yerine Neliste Simya ve Anlayış Vakfı ilerlemenin peşinden gitmeyi sürdürecek; ama bunu bütün Lachiemlileri koruyarak ve onlara empatiyle yaklaşarak yapacak.
+cs_enda_4_lun_02 = Genza, Lachiem'de hâlâ iblisler olduğunu söyledi. Onları bulacağız ve elimizden gelirse buradan kovacağız.
+cs_enda_4_lun_03 = Kolay olmayacak. O kadar uzun süre intikam peşinde koştum ki başka ne var, bilmiyorum.
+cs_enda_4_lun_04 = Zaman Ulağı olmanın ne kadar yalnız olacağını hiçbir zaman tam olarak anlamamıştım. Fedakârlığımız küçük değil. Artık kimsem yok.
+cs_enda_4_lun_05 = Tek umudum daha iyi bir şey kurmak. Attığım her adım daha iyi bir Lachiem yaratmak içindi. Artık başka ne var ki?
+cs_enda_4_lun_06 = Halletmem gereken tek bir şey daha var...
+cs_enda_5_mar_00 = Lunais?? Yaşıyorsun!!
+cs_enda_5_lun_01 = Yaşıyorum.
+cs_enda_5_lun_02 = Başaramadığım ve herkesi kurtaramadığım için üzgünüm. Zaman Çıkrığı... kırıldı.
+cs_enda_5_lun_03 = Ama intikamımı aldım. İmparator Nuvius'u öldürdüm.
+cs_enda_5_mar_04 = Demek bize geri döndün!
+cs_enda_5_lun_05 = Kalamam. Nuvius... babamdı. Onun kızı olarak artık Lachiem'i ben yönetiyorum.
+cs_enda_5_lun_06 = Lachiem artık bu dünyayı terk edecek; siz, klanım, ailem, huzur içinde yaşayın diye. Zaman Çıkrığı kırılmış olabilir ama ona bir daha ihtiyacınız olmaz.
+cs_enda_5_lun_07 = Keşke onu daha önce öldürebilseydim. O gelmeden önce... Sadece veda etmeye ve... saygılarımı sunmaya geldim.
+cs_enda_5_lun_08 = Teşekkür ederim, anne. Seni hep özleyeceğim.
+cs_enda_5_lun_09 = Hey. Artık büyümen ve eşeklik etmeyi bırakman lazım.
+cs_enda_5_yor_10 = !
+cs_enda_5_lun_11 = Artık hiçbir Zaman Ulağı olmayacak. Ama klanın hâlâ bizim gibi insanlara ihtiyacı olacak. Hem mesele, herkes sana saygı duysun, seni sevsin diye kahraman olmak değil.
+cs_enda_5_lun_12 = Mesele, değer verdiğin insanlar daha iyi yaşasın diye sahip olduğun her şeyden vazgeçmek. Ama sorun değil. Ben de başta anlamamıştım.
+cs_enda_5_lun_13 = Onlar için o kişi sen olabilirsin. Umarım bizi mahcup etmezsin.
+cs_enda_5_lun_14 = Bol şans.
+
+# ---- B45: son B — geçmişte bir hayat
+cs_endb_0_lun_00 = Lachiem'i kaos içinde, hükümdarsız bıraktım. Onlara ne olacak bilmiyorum—bir daha oraya dönmek istemiyorum. Geçmişte yaşadığım için, buradaki her şeyin ileride değişeceğini biliyorum.
+cs_endb_1_lun_00 = Belki geçmişten bir şeyleri düzeltebilirim. Ama bu imparatorluğun tamamı lekeli. Ondan kurtulduğuma seviniyorum.
+cs_endb_1_lun_01 = *Benim* geleceğim başka yerde.
+cs_endb_2_sey_00 = Sence onu bir daha görecek miyiz?
+cs_endb_2_nel_01 = ...Bilmiyorum.
+cs_endb_2_nel_02 = Umarım.
+cs_endb_2_sey_03 = En azından burada iyi şeyler yaptı. Onu özleyeceğim.
+cs_endb_2_esc_04 = Hem de gerçekten iyi şeyler.
+cs_endb_2_nel_05 = Ben de onu özleyeceğim. Umarım her neredeyse mutludur.
+cs_endb_2_nel_06 = Lunais...?
+cs_endb_2_nel_07 = Lunais!
+cs_endb_2_sey_08 = Döndün!
+cs_endb_2_lun_09 = Benden o kadar kolay kurtulamazsınız.
+cs_endb_2_nel_10 = Her şey...?
+cs_endb_2_lun_11 = Bitti. Halledildi.
+cs_endb_2_nel_12 = Neden geri döndün?
+cs_endb_2_lun_13 = Orası artık benim evim değil. Benim evim burası. Sanırım burada iyi şeyler yapabilirim.
+cs_endb_2_nel_14 = Döndüğüne sevindim.
+cs_endb_2_lun_15 = Seni öylece bırakamazdım. Seni seviyorum, Nel.
+cs_endb_2_nel_16 = Sence burada gerçekten bir hayat kurabilir miyiz? Sence... bir yerde kök salabilir misin?
+cs_endb_2_lun_17 = Bilmiyorum. Ama denemek isterim. Bir hayat arkadaşına ihtiyacım olacak—nazik ve bilge, sakin mizaçlı, dünyayı daha iyi bir yer yapmaya kararlı biri. Öyle birini tanıyor musun?
+cs_endb_2_nel_18 = Tanıyor olabilirim...
+cs_endb_3_ael_00 = ...mahsur kalan Viletliler için yerleşim alanının inşasına başlayacağız.
+cs_endb_3_ael_01 = Haristel, duyduğuma göre geriye kalan iblislerin kökünü kazıma işinin başına geçmeye gönüllü olmuşsun?
+cs_endb_3_har_02 = Evet, Majesteleri.
+cs_endb_3_har_03 = Lunais... yeniden inşaya elimden geldiğince yardım etmem için bana ilham verdi.
+cs_endb_3_lun_04 = Ben de seve seve yardım ederim, Majesteleri. Bence Lachiem'in... büyük bir şey olma potansiyeli var.
+cs_endb_3_ael_05 = Teşekkür ederim. O hâlde ortak bir görev gücü kuracağız: halklarımızı yeniden birleştirmenin ilk adımı.
+cs_endb_3_ael_06 = Hepinize sesleniyorum—bu birkaç yılın zor geçtiğini biliyorum. Adına Kız Kardeşler Savaşı denen bu savaşı hiç öngörmemiştim. Hiç istememiştim de. Ama artık bitti—güçlü bir ulus kurmanın zamanı geldi. Barış içinde bir ulus.
+cs_endb_3_ael_07 = Bir gün kardeş dünyamızla yeniden birleşebiliriz. O günün güzel bir gün olmasını istiyorum.
+cs_endb_3_lun_08 = Tarih yazacağız.
+cs_endb_3_lun_09 = Kolay olmayacak. O kadar uzun süre intikam peşinde koştum ki başka ne var, bilmiyorum.
+cs_endb_3_lun_10 = Ama burada yapılacak işler var. Dostlar da. Yaşanacak yeni bir hayat.
+cs_endb_3_lun_11 = Umudum daha iyi bir şey kurmak. Attığım her adım daha iyi bir Lachiem yaratmak içindi.
+cs_endb_3_lun_12 = Halletmem gereken tek bir şey daha var... Zaman Çıkrığını son bir kez kullanmam gerek...
+cs_endb_5_lun_00 = Kalamam. Yaşadıklarımdan sonra... Burası artık benim zamanım değil. Sanırım ben başka bir yere aitim.
+cs_endb_5_lun_01 = Lachiem şimdi kaos içinde. Sizler, klanım, ailem, huzur içinde yaşayabilirsiniz. Zaman Çıkrığı kırılmış olabilir, ama umarım ona bir daha ihtiyacınız olmaz.

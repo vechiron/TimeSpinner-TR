@@ -1,0 +1,294 @@
+# 15-diyalog — Seykis ve Eschem görevleri, konuşmacı adları, menü ekleri (parti 15/15)
+# Hitap: kamp arkadaşları birbirine "sen"; Lunais kampa ya da çifte seslenirken çoğul "siz".
+
+# ---- Seykis: kampta bekleme sözleri
+q_def_sey_00 = Aç mısın? Yaralı mı? Yalnız mı? Neye ihtiyacın varsa söyle!
+q_def_sey_02 = Son zamanlarda Eschem'le konuştun mu? Nasıl o?
+q_def_sey_03 = Acaba Lachiemlilerin güzel yemek tarifleri var mıdır?
+q_def_sey_04 = Savaş bitti ya, bu gidişle epey kilo alacağım. Umarım Eschem buna aldırmaz.
+
+# ---- Seykis 1: yavru cheveur budu
+q_sey_0_sey_00 = Selam! Göldeki yardımın için tekrar sağ ol.
+q_sey_0_lun_01 = Sorun değil. ...Pek asker gibi durmuyorsun.
+q_sey_0_sey_02 = Birliğin levazımcısıyım. Savaşmaya hiç yatkın olmadım, ufak tefek büyü yeteneğimi saymazsak.
+q_sey_0_lun_03 = Öyle mi? Ne tür bir yetenek?
+q_sey_0_sey_02b = Küçük alevler çıkarabiliyorum. En azından yemek pişirirken işe yarıyor.
+q_sey_0_lun_03b = Hepinizde büyü var mı?
+q_sey_0_sey_04 = Yok, her asker değil—ama büyüsü olanlarımızdan imparatorluğumuza hizmet etmesi bekleniyor. Sonuçta bir iş işte.
+q_sey_0_sey_05 = Ama artık burada mahsur kaldık—eve dönüş geçidini Lachiem ele geçirdi.
+q_sey_0_lun_06 = Evet—ve artık o geçit neredeyse yok.
+q_sey_0_sey_07 = Bu çok kötü... Bu dünyada ölmeyi hiç istemezdim...
+q_sey_0_sey_08 = Burada hepimiz hayatta kalacaksak yiyeceğe ve erzaka ihtiyacımız olacak.
+q_sey_0_sey_09 = Sen benden iyi avcısın—buralardaki cheveur yavrularından but getirebilirsen sana güzel bir şeyler pişiririm. Doyurucu bir yemek için 5 tane yeter herhalde!
+q_sey_0_lun_10 = Bakalım ne yapabilirim!
+q_sey_0_sey_11 = Bana bir şey getirdin mi?
+q_sey_0_lun_12 = Sadece elinde ne var, bir bakmak istedim.
+q_sey_0_sey_13 = Tabii. Ama acıkmaya başladım, haberin olsun!
+q_sey_0_lun_14 = Etin bende.
+q_sey_0_sey_15 = Vay, bu lafı genelde sadece erkeklerden duyarım. Ama sağ ol! Taze pişmiş bir but, hemen geliyor.
+
+# ---- Seykis 2: vivern kuyrukları
+q_sey_1_sey_00 = Selam. Rameda biraz dinlensin dedim, çok çalışıyor. Hem bu adama bakmak o kadar da kötü değil.
+q_sey_1_lun_01 = Nasıl o?
+q_sey_1_sey_02 = En azından cesur görünmeye çalışıyor.
+q_sey_1_sey_03 = Savaşçı biri, belli.
+q_sey_1_sey_04 = Kasvet onu fena vurdu, ama pes etmiyor.
+q_sey_1_sey_05 = Bazen Vilete'nin buraya insan gönderdiğine inanamıyorum. Hem de Kasvetin onlara neler yapabileceğini bile bile.
+q_sey_1_sey_06 = Lachiemlilerin isyan etmesine şaşmamalı. Onları suçlamıyorum, şu hâle bak. Ben hiç savaşmak istemedim, sadece bir işti—
+q_sey_1_sey_07 = Hay aksi. İyi ki Haristel buralarda değil, derimi yüzerdi. Böyle hainlik kokan laflar ettiğim için.
+q_sey_1_sey_08 = Konuyu değiştirsek mi, ha? Yine yiyeceğimiz azalıyor. Bence kuş budundan daha doyurucu bir şeye ihtiyacımız var.
+q_sey_1_sey_09 = Son indiğimde mağaralarda birkaç vivern vardı. Bölgelerine kimseyi sokmayan canavarlar, ama üstlerinde epey et var.
+q_sey_1_sey_10 = Hakkından gelebilir misin dersin?
+q_sey_1_lun_11 = Eğlenceli olacak gibi.
+q_sey_1_sey_12 = Harika. Onlardan 3 kuyruk getirir misin?
+q_sey_1_sey_13 = Burada hayatta kalacaksak gücümüzü korumalıyız. Bana birkaç bakır vivern kuyruğu getir, unutulmaz bir ziyafet hazırlayayım.
+q_sey_1_lun_14 = Of. Bunlar ağırmış.
+q_sey_1_sey_15 = Vivern kuyruklarını getirdin mi? Muhteşem. Duydun mu? Güç veren bir ziyafet, hemen geliyor...
+
+# ---- Seykis 3: yılanbalığı eti
+q_sey_2_sey_00 = Selam Lunais! Buraya iyice alışmışsın gibi. Kampa çok faydan dokunuyor.
+q_sey_2_lun_01 = Size yardım etmek benim de işime yarıyor.
+q_sey_2_sey_02 = Eschem'e yardım etmenin bencilce olduğuna beni inandıramazsın. Epey konuşuyoruz.
+q_sey_2_sey_03 = Yani, ben konuşuyorum, o yazıyor.
+q_sey_2_sey_04 = Rameda'nın verdiği son ilaçtan beri biraz konuşabiliyor.
+q_sey_2_sey_05 = Başından geçenlerden sonra hâlâ espri anlayışını koruması inanılmaz. Önce geçit muhafızlığı, sonra Kasvet, bir de burada mahsur kalmak...
+q_sey_2_lun_06 = Geçit muhafızı olmanın nesi bu kadar zor?
+q_sey_2_sey_07 = ...Ordudaki normal görevlerden daha gösterişsiz bir iş. O bizden farklı bir sınıftan—büyü yeteneği yok...
+q_sey_2_sey_08 = Bütün hayatım boyunca ondan “daha iyi” olduğum söylendi bana, biliyor musun? Ondan üstün olduğum. Sırf azıcık büyüm var diye.
+q_sey_2_sey_09 = ...Ama çok güzel gülümsüyor...
+q_sey_2_lun_10 = ... *öhöm*.
+q_sey_2_sey_11 = Hımm? Ha, şey, evet. Neyse. Yemek!
+q_sey_2_sey_12 = Senin sayende erzak epey iyi durumda, ama moralleri yüksek tutacaksak biraz çeşitliliğe ihtiyacımız var.
+q_sey_2_sey_13 = Gölün derinliklerinde dev yılanbalıkları var—yüzebiliyorsan, onlardan biraz et getirmek levazımcıya ilaç gibi gelir!
+q_sey_2_lun_14 = Bu yılanbalıkları ne kadar büyük?
+q_sey_2_sey_15 = Ah, işte, o kadar da büyük değil. Altı adam boyu falan.
+q_sey_2_lun_16 = İyi ki zorluk severim, Seykis.
+q_sey_2_sey_17 = Ah, bilirim.
+q_sey_2_sey_18 = Yılanbalığı etini getirdin mi bakalım?
+q_sey_2_lun_19 = O şeyler *ne kadar* büyük demiştin?
+q_sey_2_sey_20 = Hadi, sızlanmayı kes.
+q_sey_2_lun_21 = İstediğin gibi, kaygan, yapış yapış yılanbalığı eti.
+q_sey_2_sey_22 = Birkaç baharatla düzelmeyecek şey yok!
+q_sey_2_lun_23 = *Bunu* bile iştah açıcı yapabiliyorsan sende *gerçekten* büyü var.
+q_sey_2_sey_24 = Ne sandın! Sağ ol, Lunais.
+
+# ---- Seykis 4: savaş kuşu eti
+q_sey_3_lun_00 = İyi misin?
+q_sey_3_sey_01 = Hımm? Ha. Evet. Sadece... dalmışım.
+q_sey_3_lun_02 = Malum tatlı geçit muhafızını mı düşünüyorsun?
+q_sey_3_sey_03 = Ne? Ha. Evet. Ama...
+q_sey_3_sey_04 = Ah, beni çok kızdırıyor. O lanet hastalığa mahkûm edilmiş olması.
+q_sey_3_lun_05 = Sende—yani, hepimizde var. Onda sadece... daha ağır. Bu sadece kötü şans.
+q_sey_3_sey_06 = Ama burada kalmaya zorlanmasaydı hiç yakalanmazdı. Biz mahsur kaldık—ona burada kalması *emredildi*.
+q_sey_3_sey_07 = Kimsenin elinde böyle bir güç olmamalı; bazı insanların sırf nasıl doğduklarına bakılıp daha az hakka sahip olacağına karar verecek bir güç. Bazılarının hastalıkla yaşamak zorunda kalacağına...
+q_sey_3_sey_08 = Kusura bakma. Bugün her zamanki neşemde değilim! Yapacak bir iş mi arıyorsun?
+q_sey_3_lun_09 = İşe yarayacaksa.
+q_sey_3_sey_10 = Tabii. Evet, dur düşüneyim... Lachiemlilerin savaşa cheveur sırtında girdiğini gördüm; kuşları iri olsunlar diye yetiştiriyorlar. Erzakımıza buralardaki ufaklıklardan çok daha büyük katkı sağlarlar.
+q_sey_3_sey_11 = ...Üstelik Haristel de memnun kalır. Deyim yerindeyse bir taşla iki cheveur vururuz—hem erzakımız düzelir hem Lachiem ordusu zayıflar.
+q_sey_3_lun_12 = Etleri güzel olur mu dersin?
+q_sey_3_sey_13 = Ah, kim bilir. Ama Haristel ensemden ayrılmıyor, o yüzden ne olursa olsun gönlünü yapmayı tercih ederim.
+q_sey_3_lun_14 = Peki. Dev savaş kuşu eti, hemen geliyor.
+q_sey_3_sey_15 = Aklımda bir marinasyon var, savaş kuşunun etini güzelce yumuşatır. Savaş cheveur avından bir haber var mı?
+q_sey_3_lun_16 = Henüz değil—önce bir planın olduğundan emin olmak istedim.
+q_sey_3_sey_17 = Oyalanmayı bırak! Lezzetli olacak, söz veriyorum.
+q_sey_3_lun_18 = Kuş etin bende...
+q_sey_3_sey_19 = Buna bu kadar uzun süre inandığımıza inanamıyorum.
+q_sey_3_lun_20 = ...bu şeyi pişirebileceğine mi?
+q_sey_3_sey_21 = Ne? ...Ha, sağ ol Lunais. ...
+q_sey_3_sey_22 = Ama hayır... Bütün düzenimizi kastetmiştim.
+q_sey_3_ram_23 = Bu düzen bize ayrıcalık sağladı. Öbür yarının nasıl yaşadığını görmedik, duyduğumuzda bile... Yani, gerçekten öyle olduğuna inanmak zordu.
+q_sey_3_esc_24 = Ama... ...öyle.
+q_sey_3_sey_25 = Evet. Lachiemlilerin isyan etmesine, bu kadar öfkelenmesine şaşmamalı. Memleketteki düzende—ikinci sınıf vatandaş sayılıyorsun!
+q_sey_3_esc_26 = ...
+q_sey_3_sey_27 = Bir de umursamamam gerekiyormuş. Sana *tepeden* mi bakmalıyım? Hayatta olmaz.
+q_sey_3_sey_28 = Senin harika olduğunu görmemek mümkün mü?
+
+# ---- Seykis 5: yiyecek sentezleyici
+q_sey_4_sey_00 = Selam.
+q_sey_4_lun_01 = Eh, birlikte çok tatlı görünüyorsunuz.
+q_sey_4_esc_02 = Doğru, öyleyiz.
+q_sey_4_sey_03 = Neyse, konu değiştirmekten bahsetmişken...
+q_sey_4_lun_04 = Son zamanlarda Eschem'le konuştun mu?
+q_sey_4_sey_05 = Ne? Ha, şey, evet. Ben sadece—neden, sana bir şey mi dedi?
+q_sey_4_lun_06 = Kalbin pır pır mı?
+q_sey_4_sey_07 = Şey, evet, yani, neyse, konu değiştirmekten bahsetmişken...
+q_sey_4_sey_08 = Görünüşe bakılırsa bir süre buradayız...
+q_sey_4_lun_09 = Evet. O geçit kapandığına göre yeniden bağlantı kurulması birkaç yüz yıl daha sürer...
+q_sey_4_sey_10 = Ne?
+q_sey_4_lun_11 = Tahmin ediyorum sadece.
+q_sey_4_sey_12 = Tabii. Ben sadece... geleceğimiz için endişelenmeye başladım, anlıyor musun? Hepimizi tok ve güvende tutmakta çok yardımın dokundu, ama burası hâlâ vahşi bir sınır bölgesi. Lachiemliler bile zorlanıyor, üstelik *onlar* kasaba falan kurmuş durumda.
+q_sey_4_sey_13 = Senden durmadan bizim için avlanmanı isteyemem. Sadece... uzun vadede ne yapacağımızı bilmiyorum.
+q_sey_4_lun_14 = Hımm... Biliyor musun, belki sizin için yapabileceğim bir şey daha vardır...
+q_sey_4_sey_15 = Öyle mi?
+q_sey_4_lun_16 = Evet. Burada bekle, Seykis. Döneceğim.
+q_sey_4_lun_17 = *Modern* Lachiem yiyecek sorununu çoktan çözdü. Zaman çizgisinin canı cehenneme—onlara Varndagray'den bir yiyecek sentezleyici getiririm. Acaba nerede bulabilirim...
+q_sey_4_sey_18 = Döndün!
+q_sey_4_lun_19 = Şey, evet. O çözüm henüz bende değil, sadece birkaç şey almak istedim.
+q_sey_4_sey_20 = Ha! Tamam, tabii.
+q_sey_4_lun_21 = Öhöm! Karşınızda... çözümünüz.
+q_sey_4_sey_22 = Bir... metal kutu mu?
+q_sey_4_lun_23 = Bu bir—şey—*büyülü* metal kutu. Bir yerlerde, ıı, bulduğum bir, ıı, Vilete kampından kalma deneysel teknoloji.
+q_sey_4_sey_24 = ...?
+q_sey_4_lun_25 = İzle!
+q_sey_4_sey_26 = Yemek mi yapıyor?
+q_sey_4_lun_27 = Yemek yapıyor!
+q_sey_4_sey_28 = Eh... Bu kesinlikle işe *yarayacak* galiba! Teşekkürler Lunais—hayatımızı çok daha güzel hâle getirdin.
+q_sey_4_sey_29 = Hem de birçok bakımdan. Teşekkür ederim.
+
+# ---- Eschem: kampta bekleme sözleri
+q_def_esc_00 = Dışarıda dikkatli ol.
+q_def_esc_02 = Galiba artık Kasvetle yaşamak zorundayım, ha?
+q_def_esc_03 = Baksana, Seykis sana bir şey söyledi mi...? Şey, herhangi bir konuda?
+q_def_esc_04 = Senin sayende burada bir geleceğimiz var.
+
+# ---- Eschem 1: kalem
+q_esc_0_lun_00 = Selam. Nasıl hissediyorsun?
+q_esc_0_ram_01 = Yaşayacak, en azından şimdilik. Sanırım en kötüsü geçti...
+q_esc_0_sey_02 = Cesur adam, hem de nasıl. Zar zor yaşıyor ama hâlâ direniyor.
+q_esc_0_lun_03 = Ne o? ...Yazacak bir şey mi?
+q_esc_0_esc_04 = ....
+q_esc_0_lun_05 = Hımm?
+q_esc_0_esc_06 = Cheveur tüyü... Si—siren mürekkebi....
+q_esc_0_lun_07 = Evet—kalem için. Tabii!
+q_esc_0_lun_08 = Henüz bende yok—sen biraz dayan.
+q_esc_0_lun_09 = Hey. Uyanık mısın?
+q_esc_0_lun_10 = Kalemini getirdim.
+q_esc_0_lun_11 = “Teşekkürler.” Rica ederim. Adın ne?
+q_esc_0_lun_12 = “Eschem.” Merhaba Eschem, ben Lunais.
+q_esc_0_ram_13 = Hangi birliktensin?
+q_esc_0_lun_14 = “23. birlikten.”
+q_esc_0_sey_15 = Geçit devriyesi. Zavallı adam. Geçit ele geçirildiğinde tam eve gönderilmek üzereydin, değil mi?
+q_esc_0_lun_16 = “Kalıp manzaranın tadını çıkarayım dedim.”
+q_esc_0_ram_17 = Neyse, seni iyileştirmek için elimden geleni yapacağım, söz.
+q_esc_0_lun_18 = “Bütün gün yatakta yatamayacak mıyım yani? Kalsın.”
+
+# ---- Eschem 2: hediye
+q_esc_1_lun_00 = Biraz daha iyi misin?
+q_esc_1_esc_01 = Evet... Yani, çoğunlukla...
+q_esc_1_esc_02 = Yani, biraz.
+q_esc_1_lun_03 = Yapabileceğim bir şey var mı?
+q_esc_1_esc_04 = Biraz kalıp sohbet eder misin?
+q_esc_1_lun_05 = Pek konuşkan biri değilimdir.
+q_esc_1_esc_06 = Kamptaki herkese çok yardımın dokundu... Rameda'ya, Neliste'ye ve... Seykis'e...
+q_esc_1_esc_07 = Seykis bana çok iyi davrandı. Bana arkadaşlık etti ve... falan filan. Burada... iyi bir ekip var...
+q_esc_1_lun_08 = Hı hı.
+q_esc_1_esc_09 = Tamam. Evet... Sanırım Seykis'ten çok hoşlanıyorum.
+q_esc_1_lun_10 = Hı hı. Ona söyledin mi?
+q_esc_1_esc_11 = Hayır. Ben... endişeliyim.
+q_esc_1_lun_12 = Neden?
+q_esc_1_esc_13 = Memlekette... ...bana bakmazdı bile. Bakmaması gerekirdi. O daha üst bir sınıftan. Büyü yeteneği var. Benim gibi değil.
+q_esc_1_esc_14 = Saçmalığın daniskası. Büyüyle doğuyorsun ve seni hemen kapıp onların—
+q_esc_1_esc_14b = —akademilerine götürüyorlar. Bu arada geri kalanımız... bir kez hata yapsak tutuklanıyoruz, sürülüyoruz ya da öldürülüyoruz...
+q_esc_1_lun_15 = Bence Seykis de senden hoşlanıyor olabilir.
+q_esc_1_esc_16 = Hoşlansa bile asla söylemez...
+q_esc_1_esc_17 = Biraz... dinlenmem lazım.
+q_esc_1_lun_18 = Seni rahat bırakayım.
+q_esc_1_esc_19 = Bekle—
+q_esc_1_esc_20 = Ona bir şey vermek istiyorum. Belki... işe yarar.
+q_esc_1_esc_21 = Bana... gümüş cevheri getirebilir misin? Mağaralarda olabilir...
+q_esc_1_lun_22 = Olur. Tabii.
+q_esc_1_lun_23 = Nasılsın?
+q_esc_1_esc_24 = Ah. İşte. Gerginim. Muhtemelen ölüyorum. Önemli değil. Malzemeleri getirdin mi?
+q_esc_1_lun_25 = Henüz değil. Ama getireceğim.
+q_esc_1_esc_26 = Bir... küpe yapacağım.
+q_esc_1_lun_27 = Bulabildiğim bu.
+q_esc_1_esc_28 = ...
+q_esc_1_lun_29 = Eschem?
+q_esc_1_esc_30 = Hımm? Ah! Lunais. Bu mükemmel, teşekkür ederim.
+q_esc_1_esc_31 = Umarım...
+q_esc_1_esc_32 = Neyse, teşekkür ederim.
+
+# ---- Eschem 3: şelale buluşması
+q_esc_2_lun_00 = Selam. İyi görünüyorsun.
+q_esc_2_esc_01 = Benimle flört mü ediyorsun? Pek tipim sayılmazsın, Lunais.
+q_esc_2_lun_02 = Zaten seninle Seykis'in arasına girmek istemem. Demek istediğim, *sağlıklı* görünüyorsun.
+q_esc_2_esc_03 = Hâlâ biraz halsizim, ama... Biraz yürüyebiliyorum. Büyük ölçüde senin sayende.
+q_esc_2_lun_04 = Asıl işi Rameda yaptı.
+q_esc_2_esc_05 = Acaba... benim için bir şey daha yapabilir misin diye düşünüyordum.
+q_esc_2_lun_06 = Tabii.
+q_esc_2_esc_07 = Seykis'le... işte, gerçek bir randevuya çıkmak istiyorum. Yatak başında flört etmek yok artık. Gerçek bir randevu.
+q_esc_2_lun_08 = İyi fikir.
+q_esc_2_esc_09 = Sorun şu: kamptan çıkmak istiyorum ama şey, dövüşecek halim yok. Ormanda güzel, huzurlu bir şelale var. Oraya gitmeme yardım edersen...
+q_esc_2_lun_10 = Tabii, olur!
+q_esc_2_esc_11 = Sağ ol. Hazır olunca haber ver.
+q_esc_2_esc_12 = Pekâlâ, yola çıkalım!
+q_esc_2_esc_escort = Peşinden geliyorum!
+q_esc_2_esc_13 = Geldik. Seykis birazdan burada olur.
+q_esc_2_esc_14 = Ufff. Biraz soluklanmam lazım...
+q_esc_2_lun_15 = Gergin görünüyorsun.
+q_esc_2_esc_16 = Eyvah, belli mi oluyor?
+q_esc_2_lun_17 = Merak etme. Tatlı duruyor.
+q_esc_2_esc_18 = Umarım öyledir...
+q_esc_2_sey_19 = Eschem?
+q_esc_2_sey_20 = Ah! Selam, Lunais. Şey...
+q_esc_2_lun_21 = Merak etme. Ben kaçtım.
+q_esc_2_esc_22 = Hey.
+q_esc_2_sey_23 = Selam.
+q_esc_2_lun_24 = İkiniz de dikkatli olun!
+
+# ---- konuşmacı adları (diyalog kutusunun başlığı)
+Aelana = Aelana
+Alchemist = Simyacı
+All = Hepsi
+Cantoran = Cantoran
+Captain = Yüzbaşı
+Child = Çocuk
+Clanmother Undar = Klan Anası Undar
+Crow = Karga
+Cultist = Tarikatçı
+DATA TERMINAL = VERİ TERMİNALİ
+Dragon = Ejderha
+Emperor Nuvius = İmparator Nuvius
+Empire Soldier = İmparatorluk Askeri
+Encyclopedia = Ansiklopedi
+Eschem = Eschem
+Eternal Mother = Ebedî Ana
+Faron = Faron
+Genza = Genza
+Haristel = Haristel
+Incubus = İnkubus
+Jiana = Jiana
+KEYCARD DOOR = KARTLI KAPI
+Librarian = Kütüphaneci
+Lunais = Lunais
+Marella = Marella
+Medic = Sıhhiyeci
+Meyef = Meyef
+Neliste = Neliste
+Nuvius = Nuvius
+Pano = Pano
+Philia = Philia
+Prince Nuvius = Prens Nuvius
+Rameda = Rameda
+Sandman = Kum Adam
+Scientist 1 = Bilim İnsanı 1
+Scientist 2 = Bilim İnsanı 2
+Selen = Selen
+'Selen' = “Selen”
+Seykis = Seykis
+Soldier = Asker
+Succubus = Sukubus
+Terminal = Terminal
+Terrilis = Terrilis
+Thraena = Thraena
+Voice 1 = Ses 1
+Voice 2 = Ses 2
+Yorne = Yorne
+
+# ---- kalıntı menüsü: etkin/etkin değil (düğme resmi 23 px: KAPALI 37 px sığmaz ve dört kalıntı adının sonunu örter, VAR/YOK 20 px sığar; VAR/YOK seçildi, 12.11.2026; terim istisnası ceviri/terim-istisna.md)
+RelicsMenuOn = VAR
+RelicsMenuOff = YOK
+
+# ---- menü
+VideoMenuScreenShakeTitleOn = Ekran Sarsıntısı: AÇIK
+VideoMenuScreenShakeTitleOff = Ekran Sarsıntısı: KAPALI
+VideoMenuScreenShakeDescription = Ekran sarsıntısını açar ya da kapatır.
+SpeedrunWarning = UYARI! Bir Speedrun şifresi girdin! Devam edersen kayıt dosyan geri dönülmez biçimde değişecek; Başarımlar ve normal Yeni Oyun+ modu kullanılamayacak!
+WishlistTimespinner2 = Timespinner 2'yi İstek Listene Ekle
+ControlsMenuTitleDesktop1 = Oyuncu 1 Ayarları
+ControlsMenuDescriptionDesktop1 = Lunais'i Oyuncu 1 olarak yönetmek için kontrol ayarlarını değiştirir.
+FamiliarControlsMenuTitle = Oyuncu 2 Ayarları
+FamiliarControlsMenuDescription = Yoldaşı Oyuncu 2 olarak yönetmek için kontrol ayarlarını değiştirir.
+ControlsTurboOn = Seri Saldırı: AÇIK
+ControlsTurboOff = Seri Saldırı: KAPALI
+ControlsToggleTurboDescription = Yakın Saldırı tuşunu basılı tutmanın art arda saldırı yapıp yapmayacağını belirler.
